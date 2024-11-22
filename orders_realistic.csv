@@ -1,0 +1,1001 @@
+order_id,client_id,order_date,order_status,order_amount,payment_method,delivery_method,delivery_address,city,country
+1,8941,2024-06-27,pending,464.83,credit card,courier,364 Wall St,Manchester,UK
+2,6038,2024-06-16,canceled,476.36,bank transfer,pickup point,43 2nd St,Lyon,France
+3,4680,2023-11-18,completed,427.83,cash,postal service,930 Main St,Osaka,Japan
+4,5521,2023-12-10,completed,430.37,bank transfer,postal service,130 Wall St,Manchester,UK
+5,2900,2024-08-16,pending,121.35,cash,courier,141 Elm St,Manchester,UK
+6,5020,2023-10-09,shipped,179.01,paypal,pickup point,557 Wall St,Hamburg,Germany
+7,8794,2024-03-31,completed,407.08,credit card,pickup point,169 Wall St,Marseille,France
+8,1300,2024-07-26,canceled,74.0,paypal,courier,334 Wall St,Bryansk,Russia
+9,2863,2024-07-27,completed,236.43,paypal,courier,53 2nd St,Berlin,Germany
+10,6951,2024-03-02,pending,252.47,paypal,pickup point,868 Main St,Kyoto,Japan
+11,4886,2023-10-09,canceled,67.55,credit card,courier,933 Elm St,Paris,France
+12,9808,2024-01-06,shipped,28.03,paypal,courier,369 Market St,Melbourne,Australia
+13,4120,2024-03-16,shipped,407.66,credit card,courier,529 Wall St,Marseille,France
+14,5566,2024-03-13,shipped,233.79,cash,postal service,506 Market St,Osaka,Japan
+15,3812,2024-07-05,canceled,199.0,credit card,pickup point,996 Main St,Osaka,Japan
+16,8801,2024-05-20,canceled,61.29,paypal,pickup point,63 Market St,Manchester,UK
+17,5351,2023-12-22,canceled,328.51,credit card,pickup point,998 Market St,Lyon,France
+18,5988,2023-11-20,canceled,205.06,cash,pickup point,216 Lenin street,Los Angeles,USA
+19,4836,2024-09-10,canceled,49.04,credit card,pickup point,593 Elm St,Moscow,Russia
+20,8554,2024-07-11,shipped,448.11,credit card,pickup point,3 Main St,London,UK
+21,2809,2024-08-20,shipped,182.51,bank transfer,pickup point,771 2nd St,Tokyo,Japan
+22,9144,2024-07-06,canceled,33.66,bank transfer,courier,315 2nd St,Melbourne,Australia
+23,9156,2023-10-10,pending,242.53,cash,pickup point,528 Lenin street,Sydney,Australia
+24,5022,2024-02-13,completed,485.35,credit card,postal service,439 Market St,London,UK
+25,4406,2024-08-01,pending,232.29,paypal,pickup point,55 Elm St,Liverpool,UK
+26,6117,2024-08-05,shipped,219.33,cash,postal service,89 Elm St,London,UK
+27,1626,2024-05-26,shipped,402.14,cash,pickup point,803 2nd St,Brisbane,Australia
+28,2092,2023-11-06,shipped,481.92,paypal,pickup point,500 2nd St,Bryansk,Russia
+29,7223,2024-03-12,completed,368.61,bank transfer,postal service,820 2nd St,Moscow,Russia
+30,3185,2024-07-01,canceled,122.6,cash,pickup point,368 Market St,Brisbane,Australia
+31,2926,2024-02-13,canceled,428.93,paypal,pickup point,576 Broadway,Paris,France
+32,2548,2024-03-22,shipped,245.2,cash,postal service,99 Main St,Tokyo,Japan
+33,3948,2023-11-28,canceled,297.01,credit card,postal service,732 Elm St,London,UK
+34,9488,2023-12-05,shipped,95.14,paypal,pickup point,603 Main St,Kyoto,Japan
+35,9222,2024-09-16,canceled,152.64,paypal,postal service,954 2nd St,London,UK
+36,7481,2024-02-03,canceled,323.48,bank transfer,courier,507 Elm St,Kyoto,Japan
+37,9217,2024-07-28,shipped,142.98,paypal,postal service,120 Main St,Sydney,Australia
+38,2428,2024-04-25,canceled,381.61,paypal,courier,414 Main St,Moscow,Russia
+39,4201,2023-10-09,completed,416.36,paypal,courier,94 2nd St,Moscow,Russia
+40,8075,2024-03-06,pending,121.53,cash,pickup point,429 Broadway,New York,USA
+41,8296,2024-01-08,canceled,76.79,paypal,postal service,650 Market St,Osaka,Japan
+42,7956,2023-10-28,shipped,267.33,paypal,pickup point,957 Main St,Los Angeles,USA
+43,7524,2024-01-23,canceled,92.13,bank transfer,pickup point,185 Broadway,Berlin,Germany
+44,7895,2024-01-25,pending,233.64,paypal,postal service,124 2nd St,Tokyo,Japan
+45,7358,2024-03-07,pending,42.79,bank transfer,postal service,767 Broadway,Brisbane,Australia
+46,3251,2024-02-23,canceled,169.63,paypal,postal service,96 Main St,Berlin,Germany
+47,8079,2024-08-08,canceled,353.17,paypal,courier,503 Broadway,Bryansk,Russia
+48,7288,2024-05-31,pending,487.04,cash,postal service,473 2nd St,Manchester,UK
+49,7571,2024-09-13,completed,142.83,paypal,pickup point,392 Market St,Brisbane,Australia
+50,3246,2024-01-31,shipped,197.5,credit card,courier,976 Broadway,Berlin,Germany
+51,6461,2024-04-19,completed,409.09,bank transfer,postal service,298 Broadway,Paris,France
+52,2604,2024-07-15,pending,334.45,bank transfer,postal service,761 Lenin street,Chicago,USA
+53,9592,2023-10-29,pending,205.3,credit card,postal service,142 2nd St,London,UK
+54,4586,2024-09-13,canceled,174.12,cash,courier,982 Lenin street,Sydney,Australia
+55,4330,2023-11-25,shipped,262.18,paypal,courier,893 Market St,Osaka,Japan
+56,2718,2024-08-29,shipped,151.53,paypal,postal service,601 2nd St,Manchester,UK
+57,4262,2024-01-11,completed,412.3,paypal,pickup point,125 Wall St,Hamburg,Germany
+58,4361,2024-01-31,completed,260.01,paypal,postal service,477 Broadway,Melbourne,Australia
+59,7776,2023-12-03,canceled,283.44,cash,pickup point,298 Elm St,Lyon,France
+60,8861,2023-12-20,canceled,379.8,cash,pickup point,343 Market St,Hamburg,Germany
+61,2237,2024-02-07,canceled,161.25,bank transfer,courier,128 Elm St,Melbourne,Australia
+62,9068,2024-01-16,pending,381.66,cash,postal service,205 Broadway,Tokyo,Japan
+63,3979,2024-08-09,shipped,290.2,credit card,courier,310 Elm St,Los Angeles,USA
+64,8078,2024-08-31,pending,234.02,cash,postal service,185 Broadway,Paris,France
+65,8630,2024-09-11,pending,380.67,cash,postal service,267 Broadway,London,UK
+66,8690,2024-06-25,shipped,251.45,cash,courier,2 Broadway,Marseille,France
+67,4510,2024-09-16,pending,187.59,paypal,courier,536 Market St,London,UK
+68,1758,2023-11-12,completed,89.6,credit card,postal service,194 Wall St,Sydney,Australia
+69,8653,2023-12-18,pending,223.3,credit card,pickup point,745 Lenin street,Brisbane,Australia
+70,6469,2024-05-25,canceled,481.12,cash,postal service,764 Broadway,Los Angeles,USA
+71,4326,2024-01-16,canceled,478.83,credit card,pickup point,443 Broadway,Berlin,Germany
+72,4329,2024-04-20,shipped,419.02,cash,postal service,542 Market St,Brisbane,Australia
+73,5414,2023-10-31,shipped,170.11,paypal,postal service,667 Wall St,Bryansk,Russia
+74,1855,2024-02-10,shipped,367.26,cash,pickup point,713 Wall St,Hamburg,Germany
+75,7345,2023-10-06,pending,242.79,paypal,postal service,482 Main St,Paris,France
+76,1735,2024-09-17,shipped,466.79,bank transfer,pickup point,762 2nd St,Moscow,Russia
+77,9626,2024-04-25,canceled,144.41,cash,pickup point,972 Elm St,Brisbane,Australia
+78,8418,2024-05-08,completed,334.57,bank transfer,postal service,512 Market St,Kyoto,Japan
+79,1418,2023-10-07,shipped,117.27,credit card,courier,668 Broadway,Sydney,Australia
+80,5909,2024-07-31,canceled,248.36,cash,courier,749 Elm St,Lyon,France
+81,7543,2024-01-12,completed,279.1,cash,courier,478 Elm St,Manchester,UK
+82,7649,2024-02-29,pending,37.51,paypal,courier,718 Elm St,Moscow,Russia
+83,8097,2024-02-16,shipped,493.85,credit card,postal service,256 2nd St,Marseille,France
+84,1389,2023-10-22,canceled,264.89,paypal,postal service,9 Main St,Osaka,Japan
+85,1839,2024-01-20,completed,120.02,paypal,pickup point,665 Broadway,Marseille,France
+86,7169,2024-07-29,completed,64.66,cash,pickup point,948 Wall St,Munich,Germany
+87,2852,2024-09-10,canceled,32.71,paypal,courier,327 Main St,Liverpool,UK
+88,1022,2023-11-11,completed,273.28,bank transfer,pickup point,819 Wall St,Saint Petersburg,Russia
+89,3519,2023-10-14,completed,206.01,paypal,postal service,13 Broadway,Chicago,USA
+90,4286,2024-07-14,canceled,143.26,bank transfer,courier,790 Elm St,Manchester,UK
+91,3658,2024-02-24,canceled,344.28,credit card,courier,970 Main St,Saint Petersburg,Russia
+92,1568,2023-11-22,shipped,332.46,paypal,courier,954 Elm St,London,UK
+93,2145,2024-05-15,canceled,314.91,credit card,postal service,477 Lenin street,Paris,France
+94,5778,2024-02-07,completed,380.48,cash,courier,490 Market St,Bryansk,Russia
+95,1024,2024-06-20,shipped,27.26,cash,courier,704 Lenin street,Melbourne,Australia
+96,9571,2024-02-20,canceled,141.64,paypal,courier,231 2nd St,Liverpool,UK
+97,4436,2024-02-09,canceled,298.08,paypal,postal service,817 Elm St,London,UK
+98,8762,2024-04-10,completed,212.88,cash,pickup point,386 Lenin street,Saint Petersburg,Russia
+99,5898,2024-02-10,canceled,364.55,paypal,pickup point,27 Lenin street,Kyoto,Japan
+100,2923,2024-08-31,completed,458.82,bank transfer,postal service,19 2nd St,Chicago,USA
+101,5537,2024-06-16,canceled,125.94,bank transfer,postal service,471 Wall St,Osaka,Japan
+102,9907,2023-10-16,completed,454.47,cash,courier,181 Wall St,Osaka,Japan
+103,1391,2023-11-22,completed,67.57,cash,pickup point,480 Broadway,Liverpool,UK
+104,4361,2024-06-30,completed,368.53,paypal,postal service,324 Main St,New York,USA
+105,4127,2023-11-12,pending,99.25,paypal,courier,711 Market St,Moscow,Russia
+106,5619,2024-01-06,shipped,355.55,bank transfer,courier,150 Market St,Bryansk,Russia
+107,1818,2023-12-08,pending,76.01,paypal,pickup point,871 Broadway,Marseille,France
+108,4600,2023-12-24,completed,91.75,paypal,postal service,950 Wall St,London,UK
+109,6594,2024-03-15,shipped,302.72,paypal,courier,27 Market St,Melbourne,Australia
+110,4036,2024-06-28,pending,59.67,paypal,postal service,556 Broadway,Saint Petersburg,Russia
+111,4074,2024-05-09,pending,448.82,credit card,courier,19 Market St,Sydney,Australia
+112,1897,2024-04-11,canceled,208.24,bank transfer,courier,94 Main St,Hamburg,Germany
+113,6695,2024-08-04,canceled,300.48,paypal,pickup point,77 Broadway,Paris,France
+114,9955,2024-01-10,pending,210.78,cash,postal service,256 Wall St,Brisbane,Australia
+115,4913,2023-12-18,canceled,198.04,cash,pickup point,208 2nd St,Lyon,France
+116,4590,2024-04-18,shipped,421.71,cash,courier,891 Elm St,Saint Petersburg,Russia
+117,7770,2023-10-19,pending,242.73,credit card,postal service,113 2nd St,Saint Petersburg,Russia
+118,2387,2023-11-10,shipped,170.96,bank transfer,postal service,865 Main St,Osaka,Japan
+119,2521,2024-01-20,canceled,231.11,credit card,pickup point,785 Lenin street,Sydney,Australia
+120,8728,2024-09-19,shipped,409.63,paypal,postal service,472 Broadway,Saint Petersburg,Russia
+121,2907,2023-12-27,shipped,431.6,paypal,courier,428 Wall St,Marseille,France
+122,1147,2024-03-05,canceled,417.66,credit card,courier,865 Main St,Liverpool,UK
+123,4293,2024-01-24,completed,51.22,cash,courier,129 Broadway,New York,USA
+124,3904,2023-11-24,shipped,252.58,bank transfer,courier,954 Main St,Manchester,UK
+125,3972,2024-07-15,shipped,368.31,paypal,courier,753 Broadway,Munich,Germany
+126,9871,2024-06-11,pending,451.15,bank transfer,courier,441 2nd St,Berlin,Germany
+127,4889,2024-04-22,completed,486.18,bank transfer,pickup point,917 Lenin street,Munich,Germany
+128,4830,2024-05-10,shipped,74.13,credit card,courier,788 2nd St,Kyoto,Japan
+129,1988,2024-04-09,shipped,37.85,bank transfer,postal service,968 Lenin street,Chicago,USA
+130,4996,2024-09-11,shipped,495.05,bank transfer,postal service,309 Main St,Sydney,Australia
+131,3481,2024-04-06,completed,112.89,bank transfer,pickup point,927 Wall St,Osaka,Japan
+132,7456,2024-06-26,shipped,172.83,paypal,courier,84 Broadway,Hamburg,Germany
+133,8924,2024-03-16,completed,336.72,paypal,courier,253 Broadway,Kyoto,Japan
+134,3940,2024-01-10,canceled,49.09,bank transfer,pickup point,733 2nd St,Chicago,USA
+135,7642,2024-04-24,pending,70.52,cash,pickup point,216 Elm St,New York,USA
+136,5748,2023-11-04,pending,225.25,cash,pickup point,605 Elm St,Liverpool,UK
+137,6329,2024-04-08,completed,223.66,cash,pickup point,842 2nd St,Paris,France
+138,6317,2024-01-22,shipped,138.84,credit card,postal service,680 Lenin street,Berlin,Germany
+139,1557,2024-02-15,pending,31.21,paypal,pickup point,358 Elm St,Paris,France
+140,4088,2024-02-16,shipped,271.9,cash,pickup point,554 Main St,Osaka,Japan
+141,7067,2023-10-12,completed,393.65,paypal,postal service,8 2nd St,Paris,France
+142,3534,2024-08-30,shipped,132.09,paypal,pickup point,228 Wall St,Marseille,France
+143,9201,2023-12-02,shipped,165.47,bank transfer,pickup point,537 2nd St,Brisbane,Australia
+144,5098,2023-11-23,canceled,454.02,credit card,courier,882 Main St,Liverpool,UK
+145,7753,2024-06-18,completed,109.51,cash,pickup point,398 Elm St,Kyoto,Japan
+146,5658,2023-12-05,shipped,458.38,cash,pickup point,549 Lenin street,Manchester,UK
+147,9741,2023-11-14,completed,141.67,bank transfer,pickup point,755 2nd St,Tokyo,Japan
+148,3570,2024-06-30,pending,358.05,cash,pickup point,189 Lenin street,Osaka,Japan
+149,8887,2023-12-11,pending,62.71,cash,courier,416 Main St,Berlin,Germany
+150,6163,2024-04-14,pending,276.05,paypal,courier,652 Main St,Lyon,France
+151,9812,2024-02-26,shipped,56.29,paypal,courier,576 Market St,Liverpool,UK
+152,9759,2024-08-03,completed,259.52,cash,postal service,557 Lenin street,Melbourne,Australia
+153,6732,2024-07-18,canceled,213.73,bank transfer,courier,349 Lenin street,Los Angeles,USA
+154,3697,2024-04-11,pending,137.19,paypal,postal service,976 Broadway,London,UK
+155,5768,2023-10-09,canceled,95.73,cash,courier,637 Lenin street,Marseille,France
+156,9404,2023-10-03,completed,190.93,cash,pickup point,435 Main St,Berlin,Germany
+157,8523,2024-03-03,pending,28.98,paypal,pickup point,337 Elm St,Kyoto,Japan
+158,9653,2024-08-10,pending,419.63,cash,pickup point,516 Market St,Brisbane,Australia
+159,5447,2023-12-17,canceled,107.81,credit card,pickup point,410 Elm St,Liverpool,UK
+160,7340,2024-01-24,canceled,490.91,cash,courier,801 Main St,Marseille,France
+161,7037,2024-03-13,completed,201.64,credit card,pickup point,437 2nd St,Munich,Germany
+162,4721,2024-03-07,canceled,388.03,bank transfer,postal service,966 Market St,Chicago,USA
+163,3854,2024-04-05,pending,65.18,credit card,postal service,248 Broadway,Munich,Germany
+164,2601,2024-08-26,canceled,198.33,credit card,pickup point,659 Elm St,Moscow,Russia
+165,3364,2024-04-26,completed,273.9,credit card,pickup point,121 Lenin street,Saint Petersburg,Russia
+166,3780,2024-08-30,shipped,360.73,cash,courier,556 Wall St,Kyoto,Japan
+167,6470,2024-05-09,pending,456.55,paypal,pickup point,697 Main St,Sydney,Australia
+168,1972,2024-02-03,pending,368.09,cash,pickup point,589 Wall St,Moscow,Russia
+169,2428,2024-09-19,shipped,335.52,bank transfer,courier,329 2nd St,Liverpool,UK
+170,7218,2023-12-16,canceled,379.24,credit card,courier,287 2nd St,Kyoto,Japan
+171,3052,2024-05-18,shipped,91.23,paypal,courier,94 Elm St,Moscow,Russia
+172,2254,2024-07-18,shipped,108.48,cash,postal service,496 Wall St,Munich,Germany
+173,2495,2024-08-11,pending,439.8,paypal,pickup point,660 Market St,Liverpool,UK
+174,5699,2023-12-24,completed,318.11,paypal,pickup point,911 Market St,Osaka,Japan
+175,5590,2024-05-25,shipped,272.1,bank transfer,postal service,160 Elm St,Los Angeles,USA
+176,2166,2024-01-02,shipped,33.31,bank transfer,pickup point,931 Elm St,Saint Petersburg,Russia
+177,8027,2024-09-01,completed,182.22,credit card,courier,303 Market St,Kyoto,Japan
+178,7267,2023-10-30,canceled,358.09,bank transfer,pickup point,162 Main St,Bryansk,Russia
+179,4448,2024-04-27,canceled,297.11,cash,courier,435 Wall St,Paris,France
+180,5466,2024-02-24,pending,178.36,paypal,postal service,271 Main St,Saint Petersburg,Russia
+181,4714,2024-03-10,pending,55.79,credit card,courier,728 Elm St,Berlin,Germany
+182,4273,2024-04-02,completed,156.35,credit card,courier,711 Market St,Chicago,USA
+183,1868,2024-03-18,completed,496.2,cash,postal service,456 Main St,Brisbane,Australia
+184,4351,2024-08-31,pending,276.19,credit card,postal service,258 Elm St,Lyon,France
+185,8955,2024-07-04,completed,383.46,bank transfer,pickup point,703 Elm St,Hamburg,Germany
+186,6917,2024-09-26,completed,127.77,paypal,courier,930 Main St,Osaka,Japan
+187,1067,2024-06-14,completed,445.95,credit card,courier,633 Broadway,Manchester,UK
+188,3907,2024-06-26,shipped,469.22,paypal,courier,54 Broadway,New York,USA
+189,1971,2023-12-12,completed,335.03,cash,postal service,802 Lenin street,Chicago,USA
+190,1180,2024-05-13,canceled,177.91,credit card,pickup point,905 Main St,Marseille,France
+191,3505,2024-08-26,canceled,121.97,cash,pickup point,994 Lenin street,Moscow,Russia
+192,6818,2024-09-04,pending,455.48,credit card,courier,989 Main St,Munich,Germany
+193,6038,2023-12-11,shipped,366.67,credit card,pickup point,483 Elm St,Los Angeles,USA
+194,5047,2024-02-14,completed,405.32,paypal,pickup point,728 2nd St,Brisbane,Australia
+195,6175,2024-09-08,completed,26.58,cash,postal service,116 Lenin street,Manchester,UK
+196,4245,2024-05-06,pending,91.31,credit card,postal service,774 Broadway,Los Angeles,USA
+197,7214,2024-03-27,completed,281.0,cash,courier,910 Broadway,Chicago,USA
+198,2443,2023-12-20,pending,88.79,bank transfer,postal service,769 Main St,Berlin,Germany
+199,7559,2024-07-09,shipped,367.64,credit card,postal service,810 Elm St,Hamburg,Germany
+200,1403,2023-11-15,shipped,365.22,cash,courier,130 Elm St,Kyoto,Japan
+201,3544,2023-12-13,completed,40.63,paypal,postal service,994 2nd St,Paris,France
+202,9280,2024-07-18,shipped,59.09,paypal,postal service,285 Broadway,Sydney,Australia
+203,2436,2024-01-22,completed,493.47,paypal,postal service,626 Main St,Kyoto,Japan
+204,6872,2023-09-30,shipped,357.23,credit card,pickup point,145 Market St,Tokyo,Japan
+205,2394,2024-03-09,pending,63.08,bank transfer,courier,27 Lenin street,Munich,Germany
+206,8311,2024-03-20,completed,292.25,credit card,courier,880 Wall St,Melbourne,Australia
+207,7930,2024-02-27,canceled,126.89,credit card,courier,292 Lenin street,Munich,Germany
+208,6610,2024-07-29,shipped,196.98,cash,courier,978 2nd St,Sydney,Australia
+209,3105,2024-03-19,completed,72.59,paypal,courier,453 Broadway,Marseille,France
+210,6559,2024-05-13,shipped,46.04,cash,pickup point,410 Lenin street,Marseille,France
+211,2208,2024-06-05,completed,82.4,cash,postal service,797 Wall St,London,UK
+212,8909,2023-11-10,canceled,499.27,credit card,courier,222 Main St,Liverpool,UK
+213,7156,2024-01-27,completed,458.48,credit card,courier,357 Market St,Manchester,UK
+214,6325,2023-10-18,pending,343.81,cash,postal service,690 Wall St,Munich,Germany
+215,2109,2024-04-30,canceled,354.38,bank transfer,courier,497 Broadway,Tokyo,Japan
+216,8315,2024-02-13,canceled,130.7,bank transfer,postal service,363 2nd St,Berlin,Germany
+217,4750,2024-06-17,shipped,225.47,bank transfer,pickup point,886 Elm St,Kyoto,Japan
+218,5172,2024-01-02,shipped,242.13,paypal,courier,458 Main St,Moscow,Russia
+219,5580,2024-03-04,shipped,87.71,cash,courier,739 Elm St,New York,USA
+220,4576,2024-03-12,shipped,319.71,credit card,pickup point,154 Broadway,Melbourne,Australia
+221,7592,2023-10-08,shipped,482.15,paypal,pickup point,580 Main St,Chicago,USA
+222,9325,2023-11-02,canceled,22.39,bank transfer,pickup point,585 Broadway,Paris,France
+223,6707,2024-01-14,completed,418.04,bank transfer,pickup point,321 Wall St,Bryansk,Russia
+224,3830,2023-11-23,pending,404.71,paypal,postal service,47 Broadway,Chicago,USA
+225,9295,2024-05-12,completed,361.87,credit card,postal service,663 Main St,Paris,France
+226,1223,2024-07-10,pending,100.08,cash,postal service,75 Elm St,Osaka,Japan
+227,7746,2023-12-27,pending,300.19,paypal,postal service,598 Lenin street,Paris,France
+228,7859,2023-11-21,shipped,107.25,paypal,courier,373 Broadway,Tokyo,Japan
+229,2972,2024-02-10,completed,41.61,cash,pickup point,722 Elm St,Berlin,Germany
+230,2589,2023-10-18,canceled,344.43,cash,courier,518 Broadway,Saint Petersburg,Russia
+231,4721,2024-05-04,shipped,329.93,bank transfer,postal service,400 Main St,Sydney,Australia
+232,2050,2024-01-18,canceled,248.6,cash,courier,217 Wall St,Tokyo,Japan
+233,9554,2024-09-21,shipped,44.74,paypal,pickup point,851 Broadway,New York,USA
+234,4295,2023-10-12,shipped,223.34,bank transfer,postal service,804 Broadway,Berlin,Germany
+235,8467,2024-01-13,pending,412.38,cash,postal service,782 2nd St,Manchester,UK
+236,5635,2024-02-03,completed,50.27,cash,pickup point,372 Main St,Sydney,Australia
+237,1014,2024-02-08,completed,488.05,credit card,pickup point,762 Broadway,Melbourne,Australia
+238,4933,2024-04-27,completed,275.17,bank transfer,postal service,750 Main St,Sydney,Australia
+239,6377,2024-05-03,shipped,385.25,paypal,postal service,311 Elm St,New York,USA
+240,4200,2024-07-03,pending,262.96,paypal,pickup point,296 Broadway,Moscow,Russia
+241,9035,2024-03-07,pending,310.27,cash,postal service,584 Main St,Saint Petersburg,Russia
+242,6064,2024-08-31,completed,105.7,credit card,pickup point,509 Wall St,Saint Petersburg,Russia
+243,1927,2024-05-08,pending,26.86,credit card,pickup point,336 Market St,Lyon,France
+244,7288,2024-06-07,pending,25.63,credit card,pickup point,424 Lenin street,Chicago,USA
+245,2664,2023-12-03,shipped,476.91,bank transfer,postal service,213 Market St,Chicago,USA
+246,7271,2023-10-29,canceled,153.66,credit card,courier,5 Elm St,Tokyo,Japan
+247,6508,2023-11-25,pending,367.18,cash,pickup point,841 2nd St,Hamburg,Germany
+248,4714,2024-09-24,completed,311.42,cash,courier,483 Wall St,Los Angeles,USA
+249,3692,2024-09-20,canceled,130.22,credit card,pickup point,345 Elm St,Tokyo,Japan
+250,1230,2023-12-22,canceled,373.4,cash,postal service,755 Broadway,Saint Petersburg,Russia
+251,8965,2024-04-23,pending,139.71,bank transfer,courier,580 Main St,Saint Petersburg,Russia
+252,7695,2023-09-28,canceled,301.37,paypal,courier,518 Main St,Munich,Germany
+253,9626,2024-05-04,shipped,347.34,cash,postal service,940 Market St,Saint Petersburg,Russia
+254,9607,2024-04-29,completed,288.27,cash,postal service,284 Main St,Lyon,France
+255,1154,2024-04-12,pending,251.57,credit card,pickup point,10 Main St,New York,USA
+256,9706,2024-06-15,completed,76.3,bank transfer,pickup point,383 Main St,Bryansk,Russia
+257,9083,2023-12-13,pending,23.06,paypal,postal service,532 Market St,Osaka,Japan
+258,2228,2023-09-30,completed,135.12,credit card,postal service,153 Market St,Hamburg,Germany
+259,5481,2024-07-24,completed,330.6,paypal,pickup point,140 Wall St,Brisbane,Australia
+260,9962,2024-02-20,completed,43.54,credit card,pickup point,577 Wall St,Chicago,USA
+261,4543,2024-01-22,completed,347.26,bank transfer,courier,578 Market St,Marseille,France
+262,8227,2024-01-20,canceled,366.02,bank transfer,pickup point,46 Broadway,Osaka,Japan
+263,4563,2023-10-16,shipped,89.97,credit card,courier,472 Broadway,Sydney,Australia
+264,7045,2023-10-24,pending,85.27,bank transfer,pickup point,656 Broadway,New York,USA
+265,2810,2024-06-30,completed,73.26,bank transfer,postal service,26 Elm St,Berlin,Germany
+266,1639,2024-06-04,completed,279.3,bank transfer,courier,877 Main St,Marseille,France
+267,3304,2024-07-09,completed,333.05,bank transfer,courier,863 Elm St,Moscow,Russia
+268,8348,2023-11-24,shipped,251.33,credit card,postal service,14 2nd St,Osaka,Japan
+269,7799,2024-05-06,completed,208.96,bank transfer,pickup point,880 Elm St,Tokyo,Japan
+270,8032,2023-11-02,canceled,328.09,bank transfer,courier,547 Market St,Bryansk,Russia
+271,6151,2024-01-31,completed,296.63,paypal,pickup point,503 Market St,Brisbane,Australia
+272,8539,2023-12-26,shipped,490.32,credit card,postal service,756 Lenin street,Hamburg,Germany
+273,1203,2024-03-31,pending,291.39,cash,postal service,165 Lenin street,Marseille,France
+274,6262,2023-12-18,pending,156.92,cash,postal service,461 Lenin street,Moscow,Russia
+275,4269,2024-04-08,pending,215.62,paypal,courier,429 Main St,Tokyo,Japan
+276,6884,2024-03-08,shipped,231.79,paypal,postal service,587 Main St,Chicago,USA
+277,6672,2024-07-29,pending,109.07,paypal,pickup point,453 Lenin street,New York,USA
+278,2108,2024-02-22,canceled,246.51,credit card,postal service,584 Elm St,Sydney,Australia
+279,7077,2024-04-26,completed,336.87,credit card,pickup point,231 Market St,Moscow,Russia
+280,1629,2023-10-27,canceled,315.12,paypal,courier,878 Lenin street,Liverpool,UK
+281,8875,2024-09-23,pending,243.44,bank transfer,courier,286 Main St,London,UK
+282,5628,2024-02-17,pending,182.44,bank transfer,postal service,977 Lenin street,Kyoto,Japan
+283,3275,2024-06-22,completed,464.77,paypal,pickup point,188 Elm St,Lyon,France
+284,9655,2023-11-06,canceled,148.72,paypal,courier,299 Market St,Munich,Germany
+285,5978,2024-06-20,completed,84.71,cash,pickup point,235 Elm St,Osaka,Japan
+286,9404,2024-06-22,shipped,222.28,credit card,postal service,751 Lenin street,Los Angeles,USA
+287,1718,2024-05-31,canceled,432.92,credit card,postal service,647 Main St,Bryansk,Russia
+288,1350,2024-09-07,completed,115.03,paypal,postal service,92 Elm St,Munich,Germany
+289,3785,2024-08-10,canceled,110.18,credit card,postal service,305 Elm St,Berlin,Germany
+290,9935,2024-04-30,shipped,392.79,paypal,pickup point,717 Elm St,London,UK
+291,6039,2024-08-03,shipped,236.94,cash,pickup point,188 2nd St,Berlin,Germany
+292,1676,2024-06-16,shipped,51.71,credit card,postal service,721 Wall St,Munich,Germany
+293,1980,2024-05-28,shipped,292.51,credit card,postal service,663 Broadway,Tokyo,Japan
+294,2944,2024-01-16,canceled,468.14,bank transfer,courier,838 Main St,Moscow,Russia
+295,1805,2024-08-24,pending,214.54,credit card,pickup point,996 2nd St,Los Angeles,USA
+296,7866,2023-10-10,completed,323.99,paypal,postal service,279 Wall St,Hamburg,Germany
+297,1819,2024-01-23,canceled,90.51,bank transfer,pickup point,420 Lenin street,Kyoto,Japan
+298,8046,2024-03-11,shipped,279.45,paypal,pickup point,622 2nd St,Hamburg,Germany
+299,7575,2024-09-08,canceled,173.96,paypal,postal service,608 2nd St,Munich,Germany
+300,1785,2024-02-13,shipped,434.34,credit card,pickup point,473 Broadway,Saint Petersburg,Russia
+301,2286,2024-02-12,completed,452.54,cash,courier,456 Broadway,Manchester,UK
+302,7357,2024-04-01,completed,183.47,cash,postal service,793 Wall St,Marseille,France
+303,7016,2024-06-15,shipped,57.96,cash,postal service,461 Wall St,Moscow,Russia
+304,7968,2024-02-23,canceled,106.95,bank transfer,courier,178 Broadway,Saint Petersburg,Russia
+305,1698,2023-11-29,completed,402.28,credit card,pickup point,278 Broadway,Melbourne,Australia
+306,8890,2024-09-19,shipped,226.31,credit card,postal service,455 Market St,Liverpool,UK
+307,8762,2023-11-03,shipped,107.46,paypal,courier,326 Market St,Paris,France
+308,3682,2023-12-28,canceled,445.29,credit card,postal service,530 Market St,Munich,Germany
+309,4106,2023-12-16,canceled,139.35,paypal,postal service,1 2nd St,Manchester,UK
+310,1878,2024-08-01,pending,432.31,bank transfer,pickup point,857 Broadway,Brisbane,Australia
+311,8204,2024-07-21,pending,335.18,cash,courier,687 Wall St,Kyoto,Japan
+312,7877,2024-08-04,canceled,175.84,credit card,pickup point,278 Lenin street,Saint Petersburg,Russia
+313,6398,2023-12-18,canceled,121.83,paypal,courier,867 2nd St,Berlin,Germany
+314,1823,2024-05-17,shipped,446.38,credit card,postal service,710 Elm St,Chicago,USA
+315,9271,2023-12-30,pending,265.26,bank transfer,courier,848 Elm St,Hamburg,Germany
+316,9749,2024-09-08,pending,493.74,bank transfer,courier,397 Lenin street,Melbourne,Australia
+317,2961,2024-09-21,completed,106.22,bank transfer,courier,703 Broadway,Chicago,USA
+318,5485,2024-02-10,completed,449.0,credit card,postal service,524 Wall St,Berlin,Germany
+319,8001,2024-04-05,completed,293.23,credit card,pickup point,807 Main St,Osaka,Japan
+320,3024,2024-09-04,shipped,255.81,bank transfer,postal service,454 Broadway,Los Angeles,USA
+321,3013,2023-12-21,canceled,332.46,cash,postal service,685 Lenin street,Paris,France
+322,1112,2024-05-27,completed,59.23,cash,postal service,700 Elm St,Marseille,France
+323,6620,2024-05-22,pending,177.68,bank transfer,courier,641 Elm St,London,UK
+324,4005,2024-03-09,pending,335.03,credit card,courier,536 Elm St,London,UK
+325,3537,2023-10-06,pending,414.26,paypal,courier,790 Broadway,Melbourne,Australia
+326,8319,2024-02-24,pending,51.79,paypal,courier,805 Market St,Marseille,France
+327,9146,2024-01-09,shipped,441.92,bank transfer,pickup point,906 Elm St,Marseille,France
+328,8715,2024-01-23,pending,214.21,bank transfer,postal service,663 Market St,Lyon,France
+329,5238,2024-07-05,completed,296.99,credit card,postal service,525 2nd St,Saint Petersburg,Russia
+330,3577,2024-07-17,pending,23.92,cash,courier,499 Market St,Munich,Germany
+331,1269,2024-03-29,shipped,435.62,cash,courier,475 2nd St,New York,USA
+332,1750,2024-07-10,pending,369.94,bank transfer,pickup point,650 2nd St,Kyoto,Japan
+333,9234,2023-11-07,completed,277.0,credit card,courier,668 2nd St,Manchester,UK
+334,4614,2023-10-20,canceled,449.64,credit card,courier,634 Broadway,New York,USA
+335,2018,2024-04-17,pending,243.12,paypal,pickup point,923 Broadway,Hamburg,Germany
+336,7697,2023-12-16,canceled,198.69,bank transfer,pickup point,514 2nd St,Manchester,UK
+337,7872,2023-10-12,shipped,364.64,credit card,courier,332 Main St,Manchester,UK
+338,5607,2024-03-09,canceled,179.99,credit card,postal service,316 Market St,Moscow,Russia
+339,8687,2024-08-16,pending,409.31,bank transfer,courier,904 2nd St,Kyoto,Japan
+340,2366,2023-12-24,pending,306.65,bank transfer,postal service,793 Lenin street,Sydney,Australia
+341,7039,2024-04-09,canceled,471.32,paypal,postal service,329 Broadway,Marseille,France
+342,5347,2024-08-31,pending,166.05,credit card,pickup point,777 Broadway,Melbourne,Australia
+343,9840,2023-10-19,canceled,95.1,cash,courier,490 Main St,London,UK
+344,2798,2024-04-04,shipped,348.53,paypal,pickup point,457 Broadway,Kyoto,Japan
+345,4326,2024-04-14,canceled,193.08,credit card,pickup point,593 Market St,Bryansk,Russia
+346,8126,2024-03-01,canceled,336.36,credit card,pickup point,614 Market St,Los Angeles,USA
+347,5990,2024-09-17,canceled,124.98,cash,pickup point,541 Broadway,Berlin,Germany
+348,8630,2023-10-02,pending,287.77,bank transfer,postal service,164 2nd St,Kyoto,Japan
+349,6825,2024-04-28,canceled,213.95,cash,courier,964 Elm St,Saint Petersburg,Russia
+350,1033,2024-06-22,pending,91.34,credit card,postal service,741 Broadway,Manchester,UK
+351,7439,2023-12-14,canceled,72.01,cash,courier,115 Market St,Munich,Germany
+352,5775,2024-05-02,canceled,411.71,paypal,postal service,182 Main St,London,UK
+353,5504,2023-12-28,completed,240.13,cash,postal service,443 Broadway,Munich,Germany
+354,3840,2024-07-30,shipped,316.44,bank transfer,postal service,766 Market St,Marseille,France
+355,2227,2024-08-29,pending,23.67,paypal,postal service,492 Wall St,Lyon,France
+356,7933,2023-10-07,canceled,187.54,cash,postal service,356 Lenin street,Marseille,France
+357,6386,2024-04-26,canceled,440.34,bank transfer,pickup point,684 Market St,Hamburg,Germany
+358,8730,2024-04-25,shipped,308.66,cash,courier,201 Broadway,Melbourne,Australia
+359,5868,2024-01-13,shipped,431.78,cash,courier,783 Market St,Berlin,Germany
+360,8019,2024-08-21,canceled,356.75,credit card,postal service,886 2nd St,Sydney,Australia
+361,2185,2024-03-11,shipped,225.58,cash,pickup point,316 Broadway,Brisbane,Australia
+362,1881,2024-08-30,shipped,197.92,credit card,courier,108 Market St,Munich,Germany
+363,2681,2024-01-09,completed,247.59,paypal,courier,334 Main St,Sydney,Australia
+364,3440,2023-12-11,completed,144.66,cash,postal service,996 Elm St,Saint Petersburg,Russia
+365,9380,2023-10-09,completed,483.26,bank transfer,courier,809 Main St,Brisbane,Australia
+366,1742,2023-11-19,completed,445.3,cash,courier,929 Elm St,Kyoto,Japan
+367,9367,2024-08-28,completed,311.81,paypal,pickup point,592 Market St,New York,USA
+368,5044,2024-08-04,pending,168.07,credit card,postal service,597 2nd St,Paris,France
+369,9577,2024-06-06,pending,48.38,credit card,pickup point,674 Market St,Bryansk,Russia
+370,8826,2024-06-29,pending,427.47,paypal,postal service,634 Wall St,Munich,Germany
+371,4879,2024-07-12,pending,35.24,credit card,courier,67 Main St,Osaka,Japan
+372,9938,2024-06-04,shipped,157.25,paypal,postal service,337 Elm St,Melbourne,Australia
+373,9097,2024-09-04,completed,84.61,credit card,courier,721 Lenin street,Tokyo,Japan
+374,7385,2024-09-23,pending,462.01,cash,courier,8 Main St,Paris,France
+375,3824,2024-06-28,completed,378.79,credit card,pickup point,167 Broadway,Brisbane,Australia
+376,1592,2024-01-14,completed,332.52,credit card,pickup point,21 Main St,Liverpool,UK
+377,7792,2024-04-18,canceled,175.6,paypal,postal service,875 Broadway,Los Angeles,USA
+378,8485,2024-09-22,shipped,20.1,credit card,pickup point,756 Market St,New York,USA
+379,5071,2023-12-16,completed,392.41,bank transfer,courier,492 Market St,Sydney,Australia
+380,8223,2024-09-23,shipped,407.43,paypal,postal service,56 Broadway,Berlin,Germany
+381,2755,2024-07-31,completed,118.32,credit card,courier,334 Broadway,Liverpool,UK
+382,1788,2023-10-01,shipped,66.97,cash,postal service,905 Elm St,Brisbane,Australia
+383,2725,2024-01-26,pending,316.86,paypal,pickup point,289 Broadway,Saint Petersburg,Russia
+384,9172,2024-03-16,completed,480.15,bank transfer,postal service,880 2nd St,Sydney,Australia
+385,1569,2024-02-20,completed,204.67,credit card,courier,929 Elm St,Hamburg,Germany
+386,7144,2024-05-18,pending,264.68,credit card,courier,724 Broadway,Brisbane,Australia
+387,6728,2024-05-15,pending,296.78,cash,pickup point,616 Elm St,Bryansk,Russia
+388,3664,2024-02-12,completed,175.07,paypal,courier,765 Main St,Liverpool,UK
+389,6048,2024-04-15,shipped,496.8,bank transfer,pickup point,222 Lenin street,Liverpool,UK
+390,7415,2024-01-14,completed,464.09,credit card,courier,642 Main St,Tokyo,Japan
+391,6677,2024-06-08,completed,84.38,credit card,postal service,908 Main St,Moscow,Russia
+392,1679,2024-05-08,pending,123.02,paypal,pickup point,806 Main St,Osaka,Japan
+393,6524,2024-07-29,shipped,446.05,cash,pickup point,888 Broadway,Munich,Germany
+394,6728,2024-08-04,pending,444.53,bank transfer,postal service,326 Lenin street,Berlin,Germany
+395,3980,2024-08-27,pending,61.35,bank transfer,postal service,401 2nd St,Marseille,France
+396,1602,2024-07-17,canceled,172.33,cash,pickup point,23 2nd St,Marseille,France
+397,5784,2024-02-18,completed,421.26,cash,pickup point,797 Market St,Bryansk,Russia
+398,7841,2024-09-01,shipped,265.26,paypal,pickup point,527 Market St,New York,USA
+399,2580,2024-05-12,canceled,484.12,bank transfer,courier,759 Elm St,Berlin,Germany
+400,7787,2024-08-16,pending,478.33,credit card,pickup point,600 Market St,Brisbane,Australia
+401,4360,2024-01-29,completed,90.55,paypal,courier,103 Broadway,Kyoto,Japan
+402,1741,2023-12-17,shipped,379.84,cash,pickup point,644 Wall St,Sydney,Australia
+403,1227,2023-12-31,completed,226.45,paypal,postal service,510 Broadway,Los Angeles,USA
+404,2536,2024-02-18,pending,209.84,paypal,pickup point,614 Main St,Sydney,Australia
+405,8923,2024-02-25,completed,483.94,bank transfer,courier,253 Elm St,Chicago,USA
+406,6939,2024-02-13,canceled,316.71,paypal,postal service,448 Lenin street,Sydney,Australia
+407,1461,2023-12-31,canceled,125.04,cash,courier,248 2nd St,Los Angeles,USA
+408,4866,2024-07-11,pending,349.27,cash,courier,17 Market St,Berlin,Germany
+409,2765,2023-12-13,canceled,163.75,bank transfer,postal service,113 Lenin street,Los Angeles,USA
+410,4425,2024-08-12,canceled,433.96,cash,pickup point,471 Lenin street,Marseille,France
+411,7038,2024-04-03,canceled,355.89,paypal,pickup point,720 Main St,Liverpool,UK
+412,1448,2023-12-14,shipped,218.19,cash,courier,385 Market St,New York,USA
+413,5333,2024-09-25,canceled,493.1,bank transfer,pickup point,385 Lenin street,Bryansk,Russia
+414,9530,2024-09-16,pending,286.8,bank transfer,postal service,581 Elm St,Saint Petersburg,Russia
+415,4702,2024-08-05,shipped,22.55,bank transfer,courier,39 2nd St,Osaka,Japan
+416,2253,2024-01-28,completed,257.75,credit card,postal service,241 Wall St,Brisbane,Australia
+417,5642,2023-10-19,shipped,247.03,credit card,courier,209 2nd St,Brisbane,Australia
+418,2318,2024-09-01,pending,351.5,paypal,postal service,425 Market St,Munich,Germany
+419,7768,2024-07-19,completed,384.75,paypal,pickup point,758 2nd St,Osaka,Japan
+420,4882,2023-10-07,canceled,280.25,paypal,courier,771 Wall St,Brisbane,Australia
+421,6427,2024-02-22,shipped,41.07,paypal,postal service,508 Market St,London,UK
+422,7342,2023-10-06,completed,299.83,bank transfer,postal service,48 Main St,Marseille,France
+423,3305,2023-10-28,pending,367.66,cash,courier,381 Wall St,Munich,Germany
+424,9480,2024-06-20,pending,241.85,cash,courier,924 Market St,Kyoto,Japan
+425,9444,2023-12-10,completed,98.82,cash,courier,542 2nd St,Brisbane,Australia
+426,8366,2024-07-18,pending,245.6,cash,pickup point,553 Broadway,Osaka,Japan
+427,9676,2024-09-25,canceled,287.45,credit card,courier,412 2nd St,Osaka,Japan
+428,6882,2024-07-09,completed,272.52,paypal,pickup point,658 Elm St,Brisbane,Australia
+429,2742,2024-09-21,shipped,298.27,credit card,pickup point,52 Main St,Marseille,France
+430,9873,2024-06-05,completed,224.08,cash,courier,446 Main St,New York,USA
+431,9802,2024-05-16,pending,446.44,bank transfer,postal service,650 Main St,Chicago,USA
+432,5004,2024-06-06,completed,161.14,bank transfer,postal service,26 Broadway,Saint Petersburg,Russia
+433,6011,2023-10-01,shipped,129.02,bank transfer,postal service,864 Elm St,Tokyo,Japan
+434,2725,2024-08-15,pending,333.48,credit card,pickup point,692 Main St,Kyoto,Japan
+435,9650,2024-01-08,completed,411.91,credit card,pickup point,428 Main St,Lyon,France
+436,7740,2024-02-11,pending,339.35,cash,postal service,913 2nd St,Saint Petersburg,Russia
+437,4995,2024-06-17,pending,118.52,credit card,postal service,142 Main St,Kyoto,Japan
+438,1267,2024-09-03,shipped,321.09,cash,postal service,476 Lenin street,Liverpool,UK
+439,6287,2023-10-21,shipped,312.83,bank transfer,pickup point,347 2nd St,Melbourne,Australia
+440,3886,2023-11-08,canceled,314.76,cash,postal service,575 Wall St,Paris,France
+441,3451,2024-06-12,canceled,425.58,credit card,courier,840 Lenin street,Osaka,Japan
+442,4320,2024-09-26,pending,457.69,paypal,courier,906 Wall St,Osaka,Japan
+443,2978,2023-12-22,shipped,208.12,credit card,pickup point,737 2nd St,Osaka,Japan
+444,9523,2024-08-24,canceled,389.6,cash,courier,58 Lenin street,Melbourne,Australia
+445,6993,2024-03-01,canceled,376.39,bank transfer,courier,451 Broadway,Melbourne,Australia
+446,9753,2024-06-25,pending,303.84,paypal,pickup point,161 Wall St,London,UK
+447,7604,2024-05-24,pending,347.3,bank transfer,postal service,717 Broadway,Saint Petersburg,Russia
+448,7349,2023-12-31,completed,97.23,cash,pickup point,123 Broadway,Chicago,USA
+449,8833,2024-05-19,completed,99.91,credit card,pickup point,912 Wall St,Osaka,Japan
+450,1261,2023-12-02,completed,177.82,bank transfer,courier,130 2nd St,Tokyo,Japan
+451,3708,2024-01-25,shipped,203.27,bank transfer,pickup point,251 Wall St,Los Angeles,USA
+452,5107,2024-03-17,completed,83.68,paypal,postal service,472 2nd St,London,UK
+453,7666,2024-02-11,canceled,142.02,cash,pickup point,569 Elm St,Chicago,USA
+454,7687,2024-03-20,completed,238.3,paypal,courier,396 Market St,New York,USA
+455,7531,2024-04-24,shipped,223.6,bank transfer,postal service,551 Wall St,Los Angeles,USA
+456,5802,2023-12-24,canceled,39.3,bank transfer,postal service,768 Market St,Manchester,UK
+457,2373,2024-03-25,canceled,409.87,cash,pickup point,573 Elm St,Hamburg,Germany
+458,7889,2024-02-17,completed,144.04,cash,pickup point,732 Market St,Moscow,Russia
+459,6162,2023-11-18,pending,231.73,bank transfer,pickup point,498 Market St,Los Angeles,USA
+460,6695,2023-10-15,completed,84.23,paypal,courier,882 Wall St,Manchester,UK
+461,1304,2024-09-13,shipped,290.16,cash,postal service,113 Market St,Manchester,UK
+462,2101,2024-09-27,completed,354.23,bank transfer,courier,581 Wall St,Paris,France
+463,7247,2023-12-19,shipped,293.03,cash,postal service,438 2nd St,Lyon,France
+464,2635,2024-03-14,shipped,204.6,credit card,pickup point,101 Broadway,Manchester,UK
+465,9905,2024-01-25,pending,183.33,credit card,pickup point,250 Lenin street,Sydney,Australia
+466,7145,2023-12-02,canceled,393.61,credit card,pickup point,654 Elm St,Marseille,France
+467,6492,2024-01-27,shipped,267.15,credit card,postal service,749 Market St,London,UK
+468,8843,2024-07-10,canceled,66.78,cash,courier,531 Wall St,Sydney,Australia
+469,8041,2023-12-17,canceled,69.34,credit card,postal service,923 Main St,Liverpool,UK
+470,4470,2023-10-01,completed,70.38,credit card,postal service,725 Wall St,Lyon,France
+471,6786,2024-08-25,completed,185.79,paypal,courier,433 Wall St,Tokyo,Japan
+472,4124,2024-06-23,completed,291.85,paypal,courier,503 Lenin street,Paris,France
+473,8342,2023-11-13,completed,97.71,cash,courier,300 Lenin street,Sydney,Australia
+474,4115,2023-11-05,canceled,256.94,paypal,pickup point,405 Lenin street,Osaka,Japan
+475,1436,2024-03-20,pending,355.84,cash,courier,937 2nd St,Kyoto,Japan
+476,8205,2024-02-18,shipped,329.2,credit card,pickup point,708 2nd St,Moscow,Russia
+477,9954,2023-09-28,canceled,45.47,paypal,postal service,867 Broadway,Sydney,Australia
+478,7215,2023-12-27,shipped,133.73,cash,postal service,294 Wall St,Bryansk,Russia
+479,8338,2023-10-04,canceled,322.4,cash,courier,20 Broadway,New York,USA
+480,2336,2024-02-13,pending,111.39,cash,pickup point,99 Lenin street,London,UK
+481,2561,2024-06-15,pending,217.84,credit card,postal service,785 Market St,Los Angeles,USA
+482,7946,2023-10-09,canceled,361.01,bank transfer,postal service,864 2nd St,Liverpool,UK
+483,8553,2023-10-06,shipped,184.93,paypal,courier,509 Elm St,New York,USA
+484,5785,2023-11-21,shipped,474.08,credit card,pickup point,626 Lenin street,Chicago,USA
+485,1182,2024-09-07,canceled,486.45,credit card,pickup point,22 Lenin street,Lyon,France
+486,4518,2023-12-13,shipped,154.99,credit card,pickup point,590 2nd St,Chicago,USA
+487,8761,2024-01-02,completed,287.99,credit card,postal service,417 Market St,Hamburg,Germany
+488,8771,2024-05-21,pending,469.58,paypal,postal service,563 Market St,Los Angeles,USA
+489,4570,2024-02-29,canceled,182.81,credit card,postal service,739 Market St,Kyoto,Japan
+490,6521,2024-07-21,completed,246.62,credit card,postal service,23 Lenin street,Manchester,UK
+491,3136,2024-08-30,completed,262.06,bank transfer,postal service,852 Main St,Saint Petersburg,Russia
+492,8632,2024-03-14,pending,459.07,cash,pickup point,470 Main St,New York,USA
+493,1185,2024-03-23,shipped,164.83,paypal,pickup point,290 Elm St,Munich,Germany
+494,7410,2023-10-20,pending,387.27,paypal,courier,743 Lenin street,Marseille,France
+495,3775,2024-03-31,shipped,142.59,cash,pickup point,96 Broadway,London,UK
+496,4977,2024-02-21,shipped,410.43,bank transfer,postal service,355 2nd St,Paris,France
+497,2860,2024-06-13,canceled,433.41,paypal,pickup point,828 Lenin street,Chicago,USA
+498,7444,2024-08-06,canceled,32.87,credit card,pickup point,971 Lenin street,Kyoto,Japan
+499,4159,2024-05-11,shipped,45.37,paypal,postal service,866 Broadway,Bryansk,Russia
+500,7704,2024-06-24,completed,496.87,bank transfer,pickup point,561 2nd St,Sydney,Australia
+501,4354,2023-10-08,shipped,472.46,credit card,pickup point,136 Wall St,New York,USA
+502,8664,2023-10-27,completed,96.1,credit card,courier,402 Wall St,Bryansk,Russia
+503,6719,2024-05-10,canceled,244.51,paypal,postal service,81 Elm St,Munich,Germany
+504,3318,2023-10-08,canceled,289.52,paypal,courier,330 Wall St,Brisbane,Australia
+505,1401,2024-04-20,canceled,459.79,bank transfer,postal service,357 Elm St,Manchester,UK
+506,9642,2024-02-10,canceled,264.68,paypal,pickup point,712 Market St,Hamburg,Germany
+507,4188,2024-07-16,canceled,458.19,cash,pickup point,666 2nd St,Chicago,USA
+508,7296,2023-11-09,pending,265.24,bank transfer,postal service,297 Lenin street,Bryansk,Russia
+509,2976,2024-09-04,pending,311.22,credit card,postal service,763 Main St,Marseille,France
+510,4844,2023-10-20,canceled,52.12,paypal,pickup point,698 Main St,Paris,France
+511,8907,2023-09-28,pending,119.24,credit card,postal service,922 Lenin street,Berlin,Germany
+512,8228,2023-12-27,pending,328.99,credit card,pickup point,525 2nd St,Bryansk,Russia
+513,1257,2024-05-29,shipped,464.47,credit card,pickup point,703 Lenin street,Hamburg,Germany
+514,5181,2024-04-16,completed,403.18,credit card,pickup point,985 2nd St,Manchester,UK
+515,6492,2023-12-22,completed,185.23,cash,courier,575 Market St,New York,USA
+516,2841,2023-12-03,shipped,339.87,cash,courier,58 Wall St,Manchester,UK
+517,1035,2024-02-02,canceled,254.4,bank transfer,pickup point,482 Market St,Chicago,USA
+518,1384,2024-08-18,canceled,126.93,bank transfer,postal service,735 2nd St,Saint Petersburg,Russia
+519,2205,2023-12-10,completed,319.36,credit card,pickup point,863 2nd St,Moscow,Russia
+520,3463,2024-04-07,canceled,207.42,credit card,postal service,830 Elm St,Lyon,France
+521,9753,2024-08-11,completed,216.08,bank transfer,courier,663 Elm St,Berlin,Germany
+522,5163,2024-08-28,pending,284.48,cash,pickup point,975 Broadway,Liverpool,UK
+523,3794,2024-07-19,shipped,63.97,paypal,courier,984 Market St,Melbourne,Australia
+524,5406,2024-01-14,canceled,243.05,cash,postal service,808 Broadway,Berlin,Germany
+525,5141,2023-10-10,canceled,334.45,bank transfer,pickup point,149 Wall St,Tokyo,Japan
+526,2977,2023-10-30,shipped,221.8,cash,postal service,285 Broadway,Brisbane,Australia
+527,4830,2024-01-30,shipped,108.5,paypal,pickup point,273 Broadway,Paris,France
+528,7749,2024-05-31,pending,58.32,credit card,pickup point,112 Wall St,Marseille,France
+529,7587,2024-05-04,completed,231.9,credit card,courier,182 Elm St,Paris,France
+530,4092,2024-01-16,shipped,392.49,paypal,postal service,88 Lenin street,Los Angeles,USA
+531,2270,2024-08-19,pending,59.81,credit card,pickup point,695 2nd St,Melbourne,Australia
+532,4639,2024-04-12,shipped,458.57,paypal,postal service,178 2nd St,Melbourne,Australia
+533,5159,2023-12-08,pending,70.48,credit card,pickup point,34 Market St,Liverpool,UK
+534,3261,2024-02-03,completed,121.27,cash,postal service,162 Main St,Moscow,Russia
+535,1799,2024-05-11,canceled,468.81,bank transfer,pickup point,325 Wall St,Munich,Germany
+536,9187,2024-07-28,pending,338.14,credit card,postal service,817 2nd St,Kyoto,Japan
+537,1589,2024-03-20,completed,92.17,paypal,pickup point,751 Elm St,Saint Petersburg,Russia
+538,9666,2024-01-26,shipped,493.11,credit card,postal service,917 Broadway,Hamburg,Germany
+539,9356,2023-11-01,pending,45.17,cash,pickup point,797 2nd St,Brisbane,Australia
+540,1566,2024-01-09,canceled,258.47,paypal,pickup point,704 2nd St,Munich,Germany
+541,2050,2024-05-15,pending,338.86,bank transfer,pickup point,382 Lenin street,Liverpool,UK
+542,3155,2024-08-15,completed,326.72,paypal,pickup point,795 Lenin street,Osaka,Japan
+543,2364,2024-08-03,pending,193.88,bank transfer,postal service,726 Elm St,London,UK
+544,3888,2024-03-14,completed,343.61,credit card,courier,889 Main St,Liverpool,UK
+545,8122,2024-03-09,pending,267.34,bank transfer,postal service,590 Wall St,Munich,Germany
+546,1029,2024-06-14,completed,81.82,paypal,courier,601 Lenin street,Tokyo,Japan
+547,5133,2024-05-31,pending,52.34,cash,courier,813 Market St,Kyoto,Japan
+548,2902,2024-07-27,canceled,297.59,credit card,postal service,542 Elm St,Paris,France
+549,4134,2024-07-09,shipped,382.84,bank transfer,pickup point,787 Market St,Lyon,France
+550,6049,2023-12-16,completed,123.23,bank transfer,postal service,341 Lenin street,Kyoto,Japan
+551,7283,2023-12-25,pending,346.63,paypal,postal service,258 Elm St,Marseille,France
+552,6590,2024-08-06,shipped,88.52,paypal,courier,617 Lenin street,Paris,France
+553,3385,2024-04-30,pending,174.44,credit card,courier,459 2nd St,Brisbane,Australia
+554,2335,2024-08-05,canceled,145.21,paypal,pickup point,765 Elm St,Lyon,France
+555,6214,2024-09-01,pending,370.5,cash,pickup point,480 Market St,Bryansk,Russia
+556,6727,2024-03-11,canceled,383.98,paypal,pickup point,81 Market St,New York,USA
+557,8149,2024-01-20,shipped,86.84,credit card,courier,293 Broadway,Liverpool,UK
+558,5915,2023-10-24,pending,284.05,cash,courier,892 Lenin street,Marseille,France
+559,7466,2024-09-21,canceled,124.3,credit card,postal service,785 Elm St,Los Angeles,USA
+560,1458,2024-06-18,canceled,232.11,cash,pickup point,262 Wall St,Liverpool,UK
+561,1683,2023-12-03,canceled,444.93,credit card,pickup point,466 Wall St,Moscow,Russia
+562,9255,2023-12-07,pending,133.13,credit card,courier,949 Broadway,Paris,France
+563,7334,2023-12-07,pending,173.09,credit card,postal service,464 Broadway,Moscow,Russia
+564,6842,2024-03-20,completed,265.09,bank transfer,postal service,172 Market St,New York,USA
+565,8633,2024-09-02,shipped,233.14,credit card,courier,324 Wall St,New York,USA
+566,1013,2023-09-29,canceled,35.0,cash,pickup point,983 Elm St,Paris,France
+567,3626,2023-12-29,shipped,177.13,credit card,pickup point,41 Elm St,Hamburg,Germany
+568,3902,2024-01-09,shipped,103.94,cash,postal service,694 2nd St,Hamburg,Germany
+569,6770,2024-03-23,canceled,244.09,bank transfer,courier,765 Wall St,Sydney,Australia
+570,5766,2024-09-24,completed,220.43,paypal,courier,226 Wall St,Chicago,USA
+571,5024,2024-04-19,shipped,174.67,bank transfer,postal service,494 Broadway,Melbourne,Australia
+572,6269,2024-01-22,completed,213.28,bank transfer,pickup point,646 Lenin street,Brisbane,Australia
+573,2763,2024-09-02,canceled,482.4,cash,postal service,145 Wall St,Hamburg,Germany
+574,3990,2023-11-02,pending,355.1,credit card,pickup point,715 Main St,Osaka,Japan
+575,7918,2023-11-14,pending,239.8,cash,postal service,480 2nd St,Saint Petersburg,Russia
+576,4490,2024-06-20,completed,465.34,credit card,courier,781 Broadway,Osaka,Japan
+577,3554,2024-02-27,canceled,378.67,cash,postal service,286 Main St,Sydney,Australia
+578,7128,2024-06-16,shipped,64.97,bank transfer,postal service,601 Elm St,Kyoto,Japan
+579,2446,2024-08-15,pending,325.91,credit card,postal service,962 Wall St,Manchester,UK
+580,9950,2023-11-30,completed,420.21,bank transfer,courier,778 Lenin street,Marseille,France
+581,2546,2024-07-05,shipped,334.6,cash,courier,848 Elm St,Bryansk,Russia
+582,2097,2024-04-07,completed,460.64,credit card,postal service,551 Elm St,Paris,France
+583,2432,2023-12-29,shipped,407.6,bank transfer,pickup point,775 Lenin street,Lyon,France
+584,5914,2023-11-06,completed,262.24,credit card,pickup point,390 Lenin street,Tokyo,Japan
+585,2024,2023-11-18,completed,239.29,cash,pickup point,270 Broadway,Berlin,Germany
+586,6113,2024-05-16,completed,199.3,cash,pickup point,843 2nd St,Berlin,Germany
+587,3680,2024-03-09,completed,441.16,bank transfer,postal service,466 Market St,Hamburg,Germany
+588,9415,2024-02-27,completed,392.43,cash,postal service,641 Broadway,Manchester,UK
+589,2971,2024-02-08,shipped,121.64,credit card,pickup point,877 Main St,New York,USA
+590,2158,2024-07-18,canceled,100.14,cash,courier,923 Main St,London,UK
+591,6067,2024-06-10,completed,384.11,bank transfer,pickup point,692 Main St,Tokyo,Japan
+592,1516,2024-05-26,completed,215.46,paypal,pickup point,356 Broadway,Melbourne,Australia
+593,1324,2024-05-05,shipped,119.15,credit card,postal service,683 2nd St,Chicago,USA
+594,1629,2024-05-02,canceled,120.3,paypal,courier,731 Main St,Kyoto,Japan
+595,3861,2023-12-13,completed,31.17,credit card,postal service,945 Main St,Kyoto,Japan
+596,9598,2024-03-27,canceled,91.55,paypal,postal service,507 Elm St,Saint Petersburg,Russia
+597,4023,2023-11-14,completed,325.37,cash,pickup point,794 2nd St,Paris,France
+598,5628,2024-06-24,completed,307.38,paypal,courier,139 Lenin street,Moscow,Russia
+599,1697,2024-03-23,completed,321.46,cash,pickup point,146 Wall St,Manchester,UK
+600,2483,2023-10-02,shipped,364.58,credit card,courier,772 Wall St,Chicago,USA
+601,9776,2024-02-23,pending,464.05,credit card,courier,60 Elm St,Lyon,France
+602,8207,2024-03-01,canceled,410.36,credit card,courier,82 Lenin street,Saint Petersburg,Russia
+603,5083,2024-08-16,shipped,194.57,paypal,pickup point,49 Broadway,Lyon,France
+604,2008,2024-01-21,canceled,425.66,credit card,postal service,730 Elm St,Bryansk,Russia
+605,3369,2024-01-07,shipped,213.23,paypal,courier,240 Broadway,Moscow,Russia
+606,7615,2024-01-05,completed,246.44,cash,courier,714 Elm St,Manchester,UK
+607,1728,2024-01-30,shipped,59.66,bank transfer,pickup point,821 2nd St,Liverpool,UK
+608,9792,2024-05-05,pending,470.76,cash,postal service,915 Lenin street,Liverpool,UK
+609,3497,2023-10-06,canceled,169.6,cash,pickup point,981 2nd St,Tokyo,Japan
+610,5234,2023-11-01,shipped,408.38,bank transfer,pickup point,725 2nd St,Brisbane,Australia
+611,7702,2023-12-16,shipped,265.58,bank transfer,courier,493 Wall St,Sydney,Australia
+612,7798,2024-05-10,shipped,427.76,paypal,courier,271 Elm St,Hamburg,Germany
+613,1743,2023-11-30,canceled,26.75,cash,courier,107 Wall St,Moscow,Russia
+614,7232,2024-04-18,pending,167.68,bank transfer,pickup point,257 Main St,Lyon,France
+615,5639,2023-11-16,shipped,430.7,paypal,pickup point,294 Broadway,Marseille,France
+616,9718,2024-02-17,completed,28.26,bank transfer,postal service,818 Elm St,Hamburg,Germany
+617,4596,2023-11-24,shipped,408.58,cash,pickup point,810 Elm St,Saint Petersburg,Russia
+618,4742,2023-12-30,shipped,262.95,cash,postal service,46 2nd St,Sydney,Australia
+619,4672,2024-08-09,canceled,370.54,credit card,postal service,882 2nd St,Tokyo,Japan
+620,4139,2024-04-26,pending,409.44,cash,courier,624 Elm St,Hamburg,Germany
+621,4283,2024-09-26,completed,427.52,cash,pickup point,571 Broadway,London,UK
+622,7502,2024-03-18,shipped,318.93,bank transfer,courier,757 Broadway,Saint Petersburg,Russia
+623,4187,2024-07-17,canceled,42.82,cash,pickup point,67 2nd St,Munich,Germany
+624,3223,2023-09-30,completed,465.79,credit card,postal service,954 Wall St,Liverpool,UK
+625,1266,2024-03-24,pending,394.8,credit card,postal service,284 Wall St,Kyoto,Japan
+626,3996,2024-08-04,canceled,296.92,credit card,postal service,999 2nd St,Tokyo,Japan
+627,4335,2024-05-30,canceled,318.03,credit card,postal service,457 Broadway,Moscow,Russia
+628,5952,2024-08-07,canceled,135.6,cash,pickup point,453 Broadway,Liverpool,UK
+629,7777,2024-08-01,pending,63.25,bank transfer,courier,929 Lenin street,Liverpool,UK
+630,9208,2023-11-24,pending,412.26,cash,postal service,863 Main St,Sydney,Australia
+631,6610,2024-07-29,completed,376.38,bank transfer,pickup point,608 Lenin street,Manchester,UK
+632,2190,2024-07-09,pending,296.17,credit card,pickup point,20 2nd St,Osaka,Japan
+633,7185,2024-05-04,canceled,198.7,paypal,courier,613 Broadway,Tokyo,Japan
+634,4430,2024-07-04,canceled,39.3,credit card,courier,515 Main St,Liverpool,UK
+635,8305,2024-07-28,shipped,140.09,bank transfer,courier,480 2nd St,Melbourne,Australia
+636,6602,2024-04-17,canceled,91.45,credit card,postal service,839 Wall St,Bryansk,Russia
+637,8526,2024-02-05,canceled,398.75,paypal,pickup point,249 Main St,London,UK
+638,6587,2024-05-23,shipped,221.72,bank transfer,postal service,967 Broadway,Los Angeles,USA
+639,4481,2024-01-24,shipped,407.89,cash,postal service,513 Main St,Saint Petersburg,Russia
+640,7932,2024-02-23,pending,99.94,cash,postal service,591 2nd St,Paris,France
+641,3770,2024-08-21,completed,390.53,bank transfer,postal service,74 Elm St,Chicago,USA
+642,8490,2024-07-14,completed,408.98,cash,postal service,63 2nd St,Chicago,USA
+643,7028,2023-11-27,shipped,177.17,bank transfer,postal service,263 Wall St,Los Angeles,USA
+644,7590,2024-04-13,pending,165.04,credit card,courier,72 2nd St,Melbourne,Australia
+645,8130,2024-03-20,canceled,369.92,credit card,pickup point,264 Lenin street,Paris,France
+646,8905,2023-11-19,completed,49.72,bank transfer,postal service,188 Main St,Brisbane,Australia
+647,3736,2024-01-18,completed,210.22,credit card,postal service,682 Main St,Hamburg,Germany
+648,5533,2024-04-19,completed,148.94,bank transfer,pickup point,703 Broadway,Paris,France
+649,6659,2023-12-30,canceled,318.95,cash,postal service,865 Broadway,Kyoto,Japan
+650,2177,2023-12-31,completed,394.92,paypal,postal service,82 Lenin street,Bryansk,Russia
+651,7140,2023-10-29,shipped,309.21,credit card,courier,804 2nd St,London,UK
+652,2733,2024-02-18,canceled,109.34,credit card,postal service,386 Main St,Munich,Germany
+653,3059,2024-03-19,shipped,334.93,paypal,courier,666 Broadway,Moscow,Russia
+654,2890,2024-01-08,completed,306.67,paypal,courier,694 Broadway,Manchester,UK
+655,8477,2024-08-02,completed,366.52,paypal,pickup point,918 Wall St,Liverpool,UK
+656,3395,2023-09-28,completed,232.69,credit card,postal service,879 Elm St,Berlin,Germany
+657,2604,2023-10-20,shipped,498.6,credit card,courier,449 Elm St,New York,USA
+658,7766,2024-08-10,completed,426.19,bank transfer,courier,443 Main St,Manchester,UK
+659,1663,2024-02-11,shipped,144.36,bank transfer,courier,765 Main St,Bryansk,Russia
+660,6380,2024-07-08,canceled,478.24,credit card,pickup point,220 Broadway,Los Angeles,USA
+661,5951,2024-05-05,canceled,111.71,credit card,courier,827 Main St,Brisbane,Australia
+662,6732,2024-01-15,canceled,74.62,credit card,pickup point,436 Broadway,Brisbane,Australia
+663,3184,2023-12-12,completed,54.72,bank transfer,courier,225 2nd St,Los Angeles,USA
+664,5298,2023-11-18,completed,186.23,credit card,postal service,418 Elm St,Brisbane,Australia
+665,2885,2024-06-28,pending,374.89,paypal,postal service,910 Wall St,London,UK
+666,1127,2024-05-10,shipped,460.37,paypal,courier,27 Market St,Bryansk,Russia
+667,8653,2024-08-11,completed,353.63,cash,courier,395 Market St,Marseille,France
+668,2681,2023-11-15,completed,76.56,bank transfer,postal service,289 Elm St,Moscow,Russia
+669,7605,2023-12-21,completed,434.04,paypal,pickup point,54 2nd St,New York,USA
+670,1542,2024-05-06,canceled,407.96,paypal,postal service,765 Lenin street,London,UK
+671,2247,2024-05-17,pending,294.74,cash,postal service,420 2nd St,Liverpool,UK
+672,6176,2023-11-14,canceled,375.52,bank transfer,courier,388 Lenin street,Melbourne,Australia
+673,8426,2024-05-04,pending,470.44,bank transfer,pickup point,774 2nd St,Lyon,France
+674,5861,2024-08-12,completed,361.87,cash,pickup point,272 2nd St,Hamburg,Germany
+675,9058,2023-11-07,shipped,137.17,bank transfer,pickup point,715 Market St,Osaka,Japan
+676,6759,2023-11-21,pending,261.27,bank transfer,courier,628 Wall St,Osaka,Japan
+677,8925,2024-09-03,pending,220.96,bank transfer,postal service,664 2nd St,Lyon,France
+678,9234,2024-03-10,completed,172.26,cash,pickup point,399 Wall St,Munich,Germany
+679,7741,2024-08-19,canceled,147.54,credit card,courier,985 Elm St,Chicago,USA
+680,9807,2024-08-23,shipped,26.37,bank transfer,pickup point,393 Market St,Hamburg,Germany
+681,7834,2024-06-11,shipped,307.17,cash,postal service,618 Broadway,London,UK
+682,9790,2023-12-01,canceled,70.23,cash,courier,357 2nd St,Kyoto,Japan
+683,1549,2023-10-22,pending,67.84,cash,postal service,868 Broadway,Saint Petersburg,Russia
+684,4744,2023-12-09,pending,222.31,cash,pickup point,875 2nd St,Kyoto,Japan
+685,8228,2024-08-27,completed,383.62,cash,postal service,111 Broadway,New York,USA
+686,7037,2024-03-03,canceled,353.81,paypal,courier,563 2nd St,Liverpool,UK
+687,4863,2024-08-07,pending,409.53,bank transfer,postal service,762 Market St,Lyon,France
+688,8446,2024-05-27,completed,474.55,paypal,postal service,949 Main St,Brisbane,Australia
+689,2416,2023-12-22,pending,114.04,bank transfer,pickup point,136 Elm St,Chicago,USA
+690,6584,2024-08-08,shipped,348.35,bank transfer,courier,875 Broadway,New York,USA
+691,4012,2024-07-09,canceled,284.56,bank transfer,postal service,323 Main St,Paris,France
+692,9009,2024-04-03,pending,140.64,credit card,pickup point,331 2nd St,Marseille,France
+693,5133,2024-09-09,shipped,138.81,bank transfer,pickup point,371 Market St,Bryansk,Russia
+694,3245,2024-08-08,pending,43.82,cash,pickup point,964 Elm St,Liverpool,UK
+695,4127,2024-07-28,shipped,404.33,bank transfer,postal service,240 Wall St,Melbourne,Australia
+696,3864,2024-05-23,completed,202.14,bank transfer,pickup point,495 Elm St,London,UK
+697,3105,2023-11-28,completed,444.47,cash,postal service,106 Market St,Berlin,Germany
+698,4751,2024-01-12,shipped,115.95,bank transfer,postal service,482 Lenin street,Brisbane,Australia
+699,9767,2024-01-14,canceled,441.68,bank transfer,pickup point,504 Elm St,Saint Petersburg,Russia
+700,3236,2024-09-01,completed,232.18,bank transfer,pickup point,100 2nd St,New York,USA
+701,6544,2024-01-07,shipped,107.61,bank transfer,courier,656 2nd St,Bryansk,Russia
+702,9829,2024-09-10,shipped,340.48,credit card,postal service,78 Wall St,London,UK
+703,9165,2024-06-11,canceled,135.53,bank transfer,pickup point,723 2nd St,Saint Petersburg,Russia
+704,5112,2024-08-09,canceled,446.95,cash,courier,397 Lenin street,Chicago,USA
+705,3363,2023-12-07,completed,158.6,credit card,courier,263 2nd St,Lyon,France
+706,4943,2024-06-11,shipped,151.3,paypal,pickup point,85 Main St,Manchester,UK
+707,2508,2024-03-14,canceled,485.7,bank transfer,postal service,448 Lenin street,Berlin,Germany
+708,8938,2024-06-15,shipped,282.46,paypal,postal service,537 Elm St,Sydney,Australia
+709,8506,2023-09-28,shipped,48.63,credit card,postal service,197 Broadway,Hamburg,Germany
+710,4417,2024-05-26,pending,492.86,cash,pickup point,577 Broadway,Lyon,France
+711,9725,2024-05-22,canceled,387.37,credit card,courier,129 2nd St,Berlin,Germany
+712,8125,2023-12-17,pending,195.14,paypal,postal service,184 Broadway,Manchester,UK
+713,7459,2024-06-05,canceled,348.65,paypal,courier,470 Elm St,Lyon,France
+714,6838,2024-07-21,shipped,60.24,credit card,postal service,419 Lenin street,Melbourne,Australia
+715,7424,2023-12-09,completed,260.47,bank transfer,postal service,826 Main St,Saint Petersburg,Russia
+716,7644,2024-02-26,shipped,37.15,cash,postal service,727 2nd St,Saint Petersburg,Russia
+717,1837,2024-03-09,completed,257.9,paypal,postal service,80 Broadway,Munich,Germany
+718,7408,2024-05-29,completed,357.84,credit card,courier,838 Market St,Chicago,USA
+719,5918,2024-04-30,shipped,86.33,paypal,pickup point,756 Broadway,Tokyo,Japan
+720,7961,2023-10-08,completed,135.14,credit card,courier,727 Wall St,Bryansk,Russia
+721,8422,2024-05-27,completed,345.11,cash,courier,417 Elm St,Saint Petersburg,Russia
+722,5233,2023-10-25,completed,365.98,bank transfer,courier,674 Lenin street,Berlin,Germany
+723,2918,2024-09-01,pending,476.21,credit card,postal service,964 Wall St,Osaka,Japan
+724,7941,2023-12-13,shipped,408.88,cash,pickup point,225 Wall St,Chicago,USA
+725,3829,2023-12-12,canceled,343.69,paypal,courier,802 Broadway,Sydney,Australia
+726,3642,2024-02-22,completed,397.72,credit card,pickup point,795 Elm St,Chicago,USA
+727,1046,2023-10-22,canceled,57.84,credit card,postal service,326 Broadway,Sydney,Australia
+728,8164,2024-07-25,shipped,182.54,bank transfer,courier,819 Elm St,Osaka,Japan
+729,9634,2024-04-09,shipped,443.68,cash,pickup point,636 Wall St,Kyoto,Japan
+730,1224,2023-12-04,canceled,306.49,paypal,pickup point,252 Broadway,London,UK
+731,1815,2024-03-29,pending,399.3,cash,courier,276 Main St,New York,USA
+732,7036,2024-08-30,pending,30.83,paypal,pickup point,940 Lenin street,Berlin,Germany
+733,2818,2024-01-16,shipped,232.72,credit card,courier,324 Broadway,Berlin,Germany
+734,7161,2024-03-15,shipped,298.4,paypal,pickup point,313 Wall St,London,UK
+735,2315,2024-06-18,pending,279.75,cash,courier,538 Market St,Tokyo,Japan
+736,4835,2024-05-08,pending,295.6,credit card,courier,430 Wall St,Marseille,France
+737,1654,2023-10-26,completed,207.69,credit card,pickup point,451 Elm St,Melbourne,Australia
+738,2084,2024-01-14,pending,183.53,cash,courier,711 Market St,Hamburg,Germany
+739,3450,2024-07-31,canceled,490.09,cash,courier,164 Broadway,New York,USA
+740,7988,2023-11-28,shipped,476.27,credit card,postal service,454 Main St,Melbourne,Australia
+741,1331,2024-07-31,completed,404.41,paypal,pickup point,879 Broadway,Osaka,Japan
+742,1713,2024-03-19,canceled,365.0,bank transfer,courier,971 Wall St,Manchester,UK
+743,6390,2024-08-19,canceled,365.68,bank transfer,postal service,859 2nd St,Berlin,Germany
+744,3344,2024-01-05,shipped,157.82,credit card,pickup point,18 Elm St,Sydney,Australia
+745,1036,2024-09-22,completed,349.03,credit card,courier,172 Lenin street,Bryansk,Russia
+746,7947,2024-03-28,canceled,86.89,cash,postal service,530 Wall St,Moscow,Russia
+747,3981,2024-02-08,pending,38.66,paypal,pickup point,881 2nd St,Chicago,USA
+748,6238,2023-10-29,completed,230.18,bank transfer,postal service,824 Main St,Moscow,Russia
+749,4004,2024-02-17,canceled,199.33,bank transfer,pickup point,431 Elm St,Marseille,France
+750,3620,2024-03-01,completed,473.77,paypal,courier,946 Main St,Hamburg,Germany
+751,4547,2024-01-16,completed,455.18,paypal,postal service,83 Lenin street,Saint Petersburg,Russia
+752,8368,2024-09-26,pending,120.06,cash,courier,365 Market St,Saint Petersburg,Russia
+753,2858,2024-01-25,shipped,77.33,bank transfer,pickup point,916 Wall St,Los Angeles,USA
+754,4318,2023-12-13,completed,370.01,credit card,courier,341 Wall St,Munich,Germany
+755,2313,2024-03-24,canceled,174.4,credit card,courier,115 2nd St,Moscow,Russia
+756,6932,2024-01-18,completed,67.66,paypal,postal service,311 Main St,Hamburg,Germany
+757,4232,2024-07-11,completed,36.91,bank transfer,postal service,721 Market St,Sydney,Australia
+758,9766,2024-08-07,shipped,121.51,cash,courier,594 Broadway,Manchester,UK
+759,3494,2023-10-10,shipped,382.18,cash,pickup point,978 Elm St,Chicago,USA
+760,2688,2024-04-19,pending,295.83,paypal,courier,170 Main St,Paris,France
+761,6295,2024-03-10,pending,456.77,cash,postal service,758 2nd St,Hamburg,Germany
+762,7097,2024-03-11,canceled,66.02,credit card,pickup point,442 2nd St,Tokyo,Japan
+763,3124,2024-02-23,shipped,343.49,cash,courier,508 Market St,Tokyo,Japan
+764,3168,2024-02-16,pending,338.95,credit card,pickup point,384 Market St,Chicago,USA
+765,8182,2023-11-26,canceled,239.24,bank transfer,courier,296 Lenin street,Bryansk,Russia
+766,4287,2024-02-04,pending,39.94,bank transfer,courier,762 Wall St,Saint Petersburg,Russia
+767,1480,2023-12-24,shipped,478.38,bank transfer,courier,912 Market St,Tokyo,Japan
+768,5128,2024-06-11,canceled,387.82,credit card,postal service,258 Market St,Brisbane,Australia
+769,9497,2024-09-26,completed,405.28,credit card,postal service,623 Broadway,Tokyo,Japan
+770,2367,2024-05-20,pending,412.1,bank transfer,courier,809 Wall St,New York,USA
+771,7913,2023-11-25,completed,350.58,paypal,pickup point,239 Lenin street,Moscow,Russia
+772,7937,2024-09-09,completed,374.22,cash,courier,433 2nd St,Lyon,France
+773,3220,2024-04-29,completed,391.45,cash,pickup point,571 Broadway,Los Angeles,USA
+774,4767,2024-03-25,shipped,214.12,bank transfer,courier,170 Market St,Hamburg,Germany
+775,8970,2024-03-08,canceled,84.61,bank transfer,courier,203 Broadway,Bryansk,Russia
+776,2510,2024-06-23,completed,209.98,bank transfer,postal service,62 Lenin street,Chicago,USA
+777,8113,2024-08-25,shipped,386.96,paypal,postal service,90 Broadway,Marseille,France
+778,3904,2023-12-03,pending,383.6,credit card,postal service,919 Wall St,Tokyo,Japan
+779,3740,2024-04-17,canceled,440.9,paypal,courier,336 2nd St,Lyon,France
+780,5461,2024-07-15,shipped,479.64,bank transfer,pickup point,303 Lenin street,Liverpool,UK
+781,9761,2024-09-06,completed,388.79,paypal,courier,631 Wall St,Liverpool,UK
+782,1906,2024-01-10,completed,311.54,cash,postal service,559 Lenin street,Munich,Germany
+783,8614,2023-10-08,canceled,404.3,credit card,courier,515 Lenin street,New York,USA
+784,7478,2024-02-02,canceled,385.21,credit card,courier,880 Lenin street,Liverpool,UK
+785,3581,2024-09-19,shipped,428.72,paypal,courier,627 Market St,Sydney,Australia
+786,6015,2024-06-14,pending,399.95,credit card,pickup point,979 Main St,Tokyo,Japan
+787,5455,2024-02-07,completed,403.53,bank transfer,courier,640 Lenin street,Chicago,USA
+788,4989,2024-06-25,completed,35.87,cash,pickup point,885 Market St,London,UK
+789,2619,2023-11-21,pending,454.61,credit card,postal service,431 Broadway,Los Angeles,USA
+790,1080,2023-11-24,completed,43.43,credit card,pickup point,290 Market St,Tokyo,Japan
+791,3484,2023-12-17,pending,186.45,paypal,pickup point,984 Elm St,Berlin,Germany
+792,8122,2024-05-26,canceled,190.54,cash,pickup point,585 Lenin street,Melbourne,Australia
+793,2946,2024-04-17,canceled,30.53,paypal,courier,943 Wall St,Munich,Germany
+794,1113,2024-01-05,pending,420.92,bank transfer,postal service,414 Market St,Marseille,France
+795,2795,2024-04-15,completed,91.7,paypal,postal service,730 Broadway,Melbourne,Australia
+796,1621,2024-09-20,pending,445.77,credit card,pickup point,815 Market St,Berlin,Germany
+797,9390,2023-12-24,canceled,238.3,credit card,postal service,913 Broadway,Saint Petersburg,Russia
+798,9577,2024-06-04,completed,417.66,cash,pickup point,44 2nd St,Bryansk,Russia
+799,1376,2023-12-21,shipped,43.63,paypal,pickup point,861 Broadway,Melbourne,Australia
+800,5836,2024-05-29,canceled,175.75,credit card,pickup point,343 Wall St,Munich,Germany
+801,8241,2023-10-17,shipped,80.11,credit card,postal service,812 Market St,Osaka,Japan
+802,9273,2023-10-16,shipped,126.73,bank transfer,postal service,794 Lenin street,New York,USA
+803,1415,2023-10-31,shipped,296.91,bank transfer,postal service,724 Broadway,Kyoto,Japan
+804,2285,2024-09-22,pending,266.45,cash,courier,212 Broadway,New York,USA
+805,9989,2024-05-29,shipped,46.25,bank transfer,courier,475 Lenin street,Berlin,Germany
+806,6803,2024-07-06,pending,180.89,bank transfer,courier,614 2nd St,Moscow,Russia
+807,9276,2024-06-01,canceled,381.47,cash,postal service,644 Elm St,Munich,Germany
+808,5209,2024-04-22,pending,433.58,cash,postal service,887 Main St,Marseille,France
+809,2738,2024-03-08,canceled,160.04,credit card,pickup point,375 Lenin street,Berlin,Germany
+810,4834,2024-07-05,pending,120.5,paypal,courier,758 Main St,Moscow,Russia
+811,9931,2024-05-28,pending,214.26,credit card,postal service,184 2nd St,Los Angeles,USA
+812,7737,2024-01-02,canceled,242.09,cash,postal service,438 2nd St,Marseille,France
+813,8416,2024-06-09,completed,452.24,credit card,pickup point,375 Broadway,Manchester,UK
+814,2338,2024-07-14,canceled,375.26,credit card,pickup point,59 Broadway,Osaka,Japan
+815,7574,2024-08-30,shipped,111.17,cash,courier,991 Wall St,Tokyo,Japan
+816,6293,2024-07-29,canceled,21.01,credit card,courier,830 Main St,Kyoto,Japan
+817,2054,2023-12-14,completed,87.79,bank transfer,courier,717 Lenin street,Bryansk,Russia
+818,9351,2024-02-08,canceled,330.38,cash,pickup point,260 2nd St,Brisbane,Australia
+819,9960,2024-06-16,completed,152.57,bank transfer,postal service,717 Market St,Melbourne,Australia
+820,9134,2023-11-24,shipped,316.05,bank transfer,postal service,243 Market St,Melbourne,Australia
+821,2104,2024-06-11,pending,326.91,paypal,courier,715 Main St,Hamburg,Germany
+822,6258,2024-03-15,completed,170.51,credit card,pickup point,896 2nd St,Manchester,UK
+823,6860,2024-06-14,shipped,433.51,cash,postal service,782 Wall St,Bryansk,Russia
+824,8542,2024-09-24,pending,102.15,bank transfer,pickup point,163 Broadway,Los Angeles,USA
+825,7223,2024-08-03,canceled,106.8,paypal,courier,660 Broadway,London,UK
+826,4311,2024-08-28,shipped,75.31,credit card,pickup point,95 Main St,Liverpool,UK
+827,1428,2023-12-28,completed,183.94,paypal,courier,490 Broadway,Kyoto,Japan
+828,9682,2024-04-13,shipped,43.52,paypal,pickup point,732 Broadway,Lyon,France
+829,1905,2024-01-10,completed,129.78,credit card,postal service,728 Market St,Kyoto,Japan
+830,6094,2024-08-14,canceled,206.56,cash,postal service,944 Main St,Los Angeles,USA
+831,9415,2023-10-10,canceled,164.07,credit card,courier,266 Lenin street,Bryansk,Russia
+832,7758,2024-01-19,canceled,386.25,bank transfer,postal service,557 Lenin street,Bryansk,Russia
+833,9581,2024-04-24,shipped,45.48,cash,postal service,419 Market St,Kyoto,Japan
+834,1247,2024-08-17,canceled,92.34,paypal,courier,921 Market St,Chicago,USA
+835,8982,2023-11-29,completed,151.15,credit card,pickup point,826 Main St,Liverpool,UK
+836,4492,2024-01-01,pending,372.22,paypal,postal service,411 Main St,Chicago,USA
+837,5113,2024-02-08,canceled,442.65,paypal,pickup point,574 Elm St,Hamburg,Germany
+838,3820,2023-11-03,canceled,454.49,paypal,courier,94 2nd St,London,UK
+839,8296,2023-12-11,shipped,311.77,credit card,courier,229 Lenin street,Moscow,Russia
+840,6571,2024-08-14,canceled,67.42,paypal,pickup point,825 Wall St,Hamburg,Germany
+841,9783,2024-08-25,shipped,389.45,paypal,courier,41 Wall St,Los Angeles,USA
+842,1202,2023-10-24,pending,269.84,paypal,pickup point,463 Lenin street,Brisbane,Australia
+843,3103,2024-04-13,canceled,29.04,credit card,pickup point,532 Wall St,Saint Petersburg,Russia
+844,3359,2024-08-10,pending,163.41,paypal,courier,871 Lenin street,Saint Petersburg,Russia
+845,9566,2024-07-09,pending,470.86,bank transfer,pickup point,455 2nd St,Munich,Germany
+846,3629,2023-12-19,canceled,182.26,cash,courier,920 Main St,London,UK
+847,1539,2024-05-29,completed,141.1,paypal,pickup point,473 Elm St,Liverpool,UK
+848,6205,2024-05-26,canceled,355.36,paypal,pickup point,716 2nd St,Chicago,USA
+849,6135,2024-03-23,pending,190.34,cash,pickup point,166 Elm St,Marseille,France
+850,5281,2024-01-04,canceled,363.2,bank transfer,postal service,438 Wall St,Saint Petersburg,Russia
+851,1556,2024-06-30,shipped,131.33,cash,pickup point,829 Lenin street,Chicago,USA
+852,3105,2024-05-10,completed,277.57,cash,pickup point,928 Wall St,Saint Petersburg,Russia
+853,1271,2024-06-21,pending,429.59,paypal,courier,755 Main St,Hamburg,Germany
+854,6096,2024-07-27,canceled,377.58,credit card,courier,181 2nd St,Saint Petersburg,Russia
+855,2283,2024-04-19,canceled,129.27,cash,courier,220 Wall St,New York,USA
+856,9328,2024-05-10,pending,475.6,bank transfer,postal service,996 Main St,Kyoto,Japan
+857,5724,2023-10-18,canceled,178.04,credit card,courier,318 Elm St,Kyoto,Japan
+858,4689,2024-03-05,completed,423.14,cash,postal service,460 Lenin street,Moscow,Russia
+859,7149,2024-06-09,canceled,415.62,paypal,courier,198 Main St,Manchester,UK
+860,6009,2024-08-04,completed,384.18,bank transfer,postal service,99 Elm St,Hamburg,Germany
+861,3057,2024-03-18,shipped,204.93,credit card,pickup point,263 Wall St,Melbourne,Australia
+862,2181,2024-02-12,pending,361.13,cash,pickup point,161 Broadway,Melbourne,Australia
+863,4579,2024-09-05,completed,261.93,paypal,postal service,29 Market St,Brisbane,Australia
+864,2869,2023-12-12,pending,491.12,credit card,pickup point,333 Lenin street,Bryansk,Russia
+865,4360,2024-06-27,pending,288.25,paypal,courier,255 Lenin street,Hamburg,Germany
+866,6216,2023-12-18,shipped,100.6,cash,courier,175 2nd St,New York,USA
+867,5816,2024-09-09,canceled,355.0,bank transfer,pickup point,263 Broadway,Chicago,USA
+868,6951,2024-05-25,pending,298.22,paypal,pickup point,517 2nd St,Bryansk,Russia
+869,1075,2024-03-18,completed,288.54,credit card,postal service,748 Market St,Paris,France
+870,8493,2024-05-06,canceled,55.35,paypal,postal service,499 Market St,Osaka,Japan
+871,5703,2024-05-05,shipped,290.76,cash,postal service,872 Wall St,London,UK
+872,5811,2024-07-17,pending,117.16,credit card,pickup point,98 Wall St,Paris,France
+873,4523,2024-05-16,completed,64.25,cash,postal service,366 Elm St,Paris,France
+874,1706,2024-05-23,shipped,407.68,credit card,postal service,935 Main St,Hamburg,Germany
+875,9816,2023-11-09,shipped,431.12,paypal,courier,686 Elm St,Moscow,Russia
+876,7247,2024-07-25,canceled,434.44,paypal,courier,37 Main St,Berlin,Germany
+877,8078,2024-06-27,shipped,177.37,paypal,pickup point,197 Main St,Saint Petersburg,Russia
+878,9978,2024-04-01,canceled,459.77,bank transfer,courier,69 Lenin street,Sydney,Australia
+879,2840,2024-09-09,pending,360.01,credit card,courier,951 Broadway,Marseille,France
+880,2517,2024-09-03,canceled,274.99,cash,courier,135 Lenin street,Liverpool,UK
+881,3246,2024-02-10,canceled,288.33,paypal,postal service,465 Market St,Sydney,Australia
+882,6525,2024-03-22,pending,412.69,paypal,pickup point,292 Market St,Manchester,UK
+883,4543,2024-07-04,pending,56.93,credit card,pickup point,428 Main St,Bryansk,Russia
+884,4660,2024-06-22,pending,189.72,cash,postal service,423 Main St,Tokyo,Japan
+885,6542,2024-05-17,pending,252.9,bank transfer,postal service,102 Main St,Berlin,Germany
+886,9814,2024-06-05,canceled,399.83,credit card,postal service,843 2nd St,Lyon,France
+887,1799,2024-02-26,shipped,339.05,bank transfer,postal service,884 Lenin street,Munich,Germany
+888,3822,2024-09-13,shipped,163.37,cash,postal service,204 Broadway,Brisbane,Australia
+889,2184,2024-05-16,completed,399.65,cash,courier,527 2nd St,Kyoto,Japan
+890,1193,2024-08-19,completed,467.97,cash,pickup point,25 Lenin street,New York,USA
+891,5341,2023-12-28,shipped,308.34,bank transfer,postal service,886 Market St,London,UK
+892,2389,2023-11-07,shipped,262.85,credit card,postal service,737 Lenin street,Chicago,USA
+893,2201,2023-12-24,completed,107.05,paypal,postal service,166 Wall St,Hamburg,Germany
+894,8987,2024-03-26,completed,75.15,paypal,pickup point,195 Wall St,Lyon,France
+895,4409,2023-11-11,pending,462.27,cash,courier,682 2nd St,Osaka,Japan
+896,1067,2024-04-06,shipped,102.46,cash,pickup point,612 Market St,Paris,France
+897,6820,2023-10-16,completed,45.79,paypal,pickup point,608 Lenin street,Tokyo,Japan
+898,2537,2023-11-10,shipped,47.94,paypal,postal service,612 2nd St,Kyoto,Japan
+899,7222,2024-01-21,canceled,432.91,paypal,pickup point,483 Lenin street,Tokyo,Japan
+900,9232,2024-01-20,shipped,213.94,cash,pickup point,916 Broadway,Bryansk,Russia
+901,2290,2024-05-15,completed,245.12,credit card,courier,394 Wall St,Moscow,Russia
+902,2223,2024-03-10,completed,138.21,credit card,postal service,484 Main St,Los Angeles,USA
+903,1523,2024-09-18,shipped,33.4,credit card,pickup point,867 Market St,Kyoto,Japan
+904,8936,2023-12-06,shipped,493.68,paypal,postal service,530 Market St,Berlin,Germany
+905,8152,2023-11-21,shipped,93.7,bank transfer,courier,629 Elm St,Brisbane,Australia
+906,6998,2024-04-14,canceled,393.26,paypal,postal service,46 Elm St,Hamburg,Germany
+907,2096,2024-03-13,shipped,331.51,bank transfer,postal service,938 Lenin street,Moscow,Russia
+908,6910,2023-10-16,canceled,274.25,credit card,postal service,914 Broadway,Liverpool,UK
+909,2364,2023-11-30,pending,48.49,credit card,pickup point,940 Lenin street,London,UK
+910,2960,2023-10-02,canceled,475.15,paypal,courier,684 Broadway,Manchester,UK
+911,9599,2024-08-14,shipped,268.58,bank transfer,courier,240 Market St,Liverpool,UK
+912,8319,2024-03-05,completed,410.22,credit card,courier,136 Elm St,Manchester,UK
+913,2584,2023-11-02,shipped,422.47,bank transfer,pickup point,478 Broadway,Sydney,Australia
+914,1764,2024-08-08,pending,143.73,bank transfer,postal service,353 Broadway,Kyoto,Japan
+915,4030,2024-01-11,completed,288.2,cash,pickup point,55 2nd St,Brisbane,Australia
+916,1750,2024-03-08,shipped,303.78,credit card,postal service,557 Broadway,Tokyo,Japan
+917,1432,2024-01-29,pending,259.32,paypal,pickup point,379 Lenin street,Marseille,France
+918,1697,2024-05-19,completed,247.1,bank transfer,postal service,568 Wall St,Kyoto,Japan
+919,2064,2024-07-09,completed,128.33,cash,postal service,400 Wall St,Osaka,Japan
+920,7601,2024-06-13,shipped,183.19,paypal,courier,84 Wall St,Liverpool,UK
+921,3939,2024-02-08,completed,295.24,cash,postal service,622 Main St,Melbourne,Australia
+922,6168,2023-12-11,shipped,203.75,cash,postal service,374 Broadway,Kyoto,Japan
+923,3220,2024-04-20,canceled,363.01,credit card,courier,993 Broadway,Chicago,USA
+924,7486,2024-05-04,pending,353.09,paypal,postal service,258 Wall St,Moscow,Russia
+925,1423,2024-06-14,canceled,193.18,credit card,pickup point,125 Lenin street,Tokyo,Japan
+926,6583,2023-10-07,canceled,333.72,paypal,pickup point,872 Market St,Brisbane,Australia
+927,6644,2023-12-12,shipped,100.96,paypal,postal service,857 Main St,Bryansk,Russia
+928,6151,2024-07-31,pending,79.05,paypal,postal service,529 Lenin street,Liverpool,UK
+929,5103,2024-03-01,pending,412.06,credit card,postal service,819 Lenin street,Los Angeles,USA
+930,8488,2024-02-03,completed,337.3,credit card,postal service,488 Lenin street,Tokyo,Japan
+931,3927,2024-09-19,canceled,156.74,bank transfer,courier,694 2nd St,Berlin,Germany
+932,7641,2023-10-03,pending,390.31,cash,courier,452 Elm St,Los Angeles,USA
+933,7803,2024-01-26,completed,173.17,credit card,courier,702 Elm St,Berlin,Germany
+934,9647,2024-06-03,pending,252.27,paypal,courier,2 2nd St,Los Angeles,USA
+935,5059,2024-03-20,completed,77.19,cash,courier,996 Elm St,Kyoto,Japan
+936,8618,2024-03-02,completed,228.07,bank transfer,pickup point,543 2nd St,Hamburg,Germany
+937,4999,2024-05-10,canceled,381.09,paypal,pickup point,977 Broadway,Bryansk,Russia
+938,2318,2024-09-01,completed,22.83,cash,courier,344 Broadway,London,UK
+939,6437,2024-04-21,canceled,116.23,cash,courier,455 2nd St,Berlin,Germany
+940,2353,2024-01-26,completed,289.91,paypal,courier,166 Main St,Saint Petersburg,Russia
+941,1167,2024-04-08,completed,99.46,bank transfer,postal service,491 Market St,Paris,France
+942,1739,2024-06-08,canceled,291.61,paypal,courier,648 Lenin street,Chicago,USA
+943,2947,2024-03-15,canceled,160.43,bank transfer,pickup point,94 Main St,New York,USA
+944,2525,2024-06-07,shipped,328.39,credit card,pickup point,581 Market St,Tokyo,Japan
+945,4064,2024-04-02,shipped,225.21,bank transfer,postal service,961 Wall St,Moscow,Russia
+946,1264,2024-09-24,canceled,262.16,bank transfer,postal service,312 Market St,Lyon,France
+947,1905,2024-03-25,pending,270.75,cash,courier,871 Main St,London,UK
+948,9208,2024-04-04,shipped,224.93,cash,postal service,402 Elm St,Hamburg,Germany
+949,5322,2024-08-31,canceled,365.22,bank transfer,postal service,64 Broadway,Melbourne,Australia
+950,4724,2024-01-18,canceled,497.26,cash,postal service,232 Broadway,Sydney,Australia
+951,8742,2024-07-05,completed,418.25,bank transfer,pickup point,959 Wall St,Hamburg,Germany
+952,9149,2024-03-30,canceled,453.87,bank transfer,pickup point,13 Wall St,Melbourne,Australia
+953,9802,2024-07-13,pending,361.66,credit card,courier,305 Broadway,London,UK
+954,9323,2024-01-26,pending,141.01,bank transfer,postal service,737 Broadway,Brisbane,Australia
+955,7596,2024-01-23,pending,206.96,paypal,courier,337 Main St,Moscow,Russia
+956,1951,2024-05-12,completed,273.0,paypal,pickup point,254 Main St,Sydney,Australia
+957,2381,2024-09-01,completed,193.87,credit card,postal service,325 Elm St,Kyoto,Japan
+958,4883,2024-05-11,canceled,190.37,cash,pickup point,463 Lenin street,Marseille,France
+959,6244,2023-12-11,pending,393.28,paypal,postal service,81 Elm St,Brisbane,Australia
+960,2737,2024-03-29,canceled,97.22,paypal,courier,190 Broadway,Paris,France
+961,4726,2024-02-24,canceled,298.26,bank transfer,postal service,773 Elm St,Melbourne,Australia
+962,3073,2023-10-18,shipped,433.94,cash,pickup point,643 2nd St,Marseille,France
+963,4035,2024-03-04,completed,317.53,paypal,postal service,49 Elm St,Munich,Germany
+964,2412,2024-02-13,shipped,90.72,paypal,postal service,15 Lenin street,Lyon,France
+965,4016,2023-11-05,shipped,310.78,bank transfer,pickup point,807 Wall St,Osaka,Japan
+966,2208,2023-10-24,canceled,425.72,credit card,postal service,81 2nd St,Chicago,USA
+967,9808,2023-09-28,completed,478.86,cash,pickup point,369 Elm St,Bryansk,Russia
+968,2898,2024-06-24,pending,266.64,paypal,postal service,504 Main St,Marseille,France
+969,2842,2024-07-28,completed,69.13,cash,pickup point,873 Elm St,Sydney,Australia
+970,6941,2024-07-14,pending,78.28,cash,pickup point,668 Market St,Bryansk,Russia
+971,9317,2023-10-31,shipped,167.74,cash,postal service,606 Wall St,Chicago,USA
+972,4611,2024-07-01,pending,406.84,bank transfer,courier,345 Lenin street,Saint Petersburg,Russia
+973,5100,2023-10-26,shipped,347.17,cash,postal service,13 Main St,Munich,Germany
+974,3103,2024-02-25,completed,118.92,cash,pickup point,187 Elm St,Paris,France
+975,4797,2023-11-17,shipped,129.96,cash,pickup point,146 Main St,Osaka,Japan
+976,1493,2024-01-08,shipped,404.56,credit card,courier,772 Market St,Lyon,France
+977,8621,2024-06-13,completed,423.62,cash,postal service,697 2nd St,London,UK
+978,3876,2023-11-10,pending,491.93,credit card,courier,454 Broadway,Manchester,UK
+979,2039,2024-04-23,shipped,310.77,bank transfer,courier,222 Broadway,Osaka,Japan
+980,1122,2023-10-28,completed,167.27,paypal,courier,775 Elm St,Chicago,USA
+981,5863,2023-10-01,shipped,476.86,credit card,courier,395 2nd St,Tokyo,Japan
+982,3047,2023-12-05,shipped,285.72,credit card,postal service,933 Broadway,New York,USA
+983,5767,2023-12-13,shipped,243.02,paypal,postal service,510 Elm St,Los Angeles,USA
+984,4863,2024-06-17,canceled,37.99,paypal,postal service,291 Elm St,Tokyo,Japan
+985,6765,2024-09-09,completed,227.52,bank transfer,courier,311 Main St,Berlin,Germany
+986,2775,2024-08-09,canceled,321.65,paypal,postal service,585 Lenin street,Saint Petersburg,Russia
+987,3901,2023-10-20,completed,169.91,cash,courier,449 2nd St,Melbourne,Australia
+988,9461,2023-10-06,completed,423.6,bank transfer,pickup point,639 2nd St,Marseille,France
+989,5944,2024-02-01,pending,251.58,cash,postal service,856 2nd St,Los Angeles,USA
+990,3836,2024-06-25,canceled,335.6,credit card,pickup point,618 Lenin street,Munich,Germany
+991,1229,2024-09-20,pending,477.18,bank transfer,courier,461 Lenin street,Osaka,Japan
+992,8354,2024-08-18,canceled,190.6,bank transfer,courier,811 Elm St,Melbourne,Australia
+993,5618,2023-11-27,pending,451.01,paypal,pickup point,445 Wall St,Brisbane,Australia
+994,8506,2024-02-01,shipped,178.19,paypal,postal service,102 Wall St,Kyoto,Japan
+995,2865,2024-09-16,pending,61.28,bank transfer,courier,423 Broadway,Liverpool,UK
+996,3863,2024-05-22,canceled,111.21,bank transfer,courier,663 2nd St,Liverpool,UK
+997,4218,2024-04-22,canceled,286.77,bank transfer,pickup point,953 Broadway,Kyoto,Japan
+998,8419,2023-11-06,completed,33.99,bank transfer,pickup point,96 Wall St,Marseille,France
+999,9200,2024-09-21,completed,147.02,credit card,postal service,983 Market St,Lyon,France
+1000,9423,2024-03-15,pending,438.43,credit card,courier,983 Elm St,Melbourne,Australia
